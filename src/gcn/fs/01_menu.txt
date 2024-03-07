@@ -1,0 +1,411 @@
+00:Play Classic Grand Prix.
+
+01:Play Arcade Mode.
+
+02:Check info, purchase items, etc.
+
+03:Save the current game.
+
+04:Change options and settings.
+
+05:Participate in the\nCyber Formula Classic Grand Prix.
+
+06:Start from last save.
+
+07:Change options and settings.
+
+08:Return to game menu.
+
+09:Begin qualifying.
+
+10:Start a practice run.
+
+11:Set boost pressure.
+
+12:Show ranking.
+
+13:Select BGM.
+
+14:Change options and settings.
+
+15:Exit Grand Prix and return to the game.\n%5Next time you will resume where you last saved.%1
+
+16:Proceed to final session.
+
+17:Show qualifying results.
+
+18:Save the game up to this point.
+
+19:Exit the Grand Prix and return to the game.\n%5If you haven't saved, no data will remain.%1
+
+20:Set the final race.
+
+21:Set boost pressure.
+
+22:Set BGM.
+
+23:Change options and settings.
+
+24:Exit the Grand Prix and return to the game.\n%5Next time you will resume where you last saved.%1
+
+25:Show starting grid.
+
+26:Proceed to next round.
+
+27:Show race results.
+
+28:Show ranking.
+
+29:Watch race replays.
+
+30:Save replay.
+
+31:Save the game up to this point.
+
+32:Exit the Grand Prix and return to the game.\n%5Next time you will resume where you last saved.%1
+
+33:You won the final race!
+
+34:You won second place in\nthe final race!
+
+35:You won third place in\nthe final race!
+
+36:You finished fourth place in\nthe final race.
+
+37:You finished fifth place in\nthe final race.
+
+38:You finished sixth place in\nthe final race.
+
+39:Retired the final race.
+
+40:Proceed to final results.
+
+41:Watch race replays.
+
+42:Save replay.
+
+43:You won 1st overall!
+
+44:Overall result was 1st place!
+
+45:Overall result was 2nd place!
+
+46:Overall result was 3rd place!
+
+47:Overall result was 4th place.
+
+48:Overall result was 5th place.
+
+49:Overall result was 6th place.
+
+50:Save the current game.
+
+51:Return to game menu.
+
+52:Check the race history.
+
+53:Purchase items using CY points.
+
+54:View the cards you have collected.
+
+55:View saved replay data.
+
+56:You can view the machines you own.\n%4You can also see operation advice.%1
+
+57:Listen to BGM.
+
+58:Return to game menu.
+
+59:View game progress.
+
+60:Check tournament clear status.
+
+61:Display time attack records.
+
+62:Return to private area menu.
+
+63:View course records (forward courses).
+
+64:View course records (reverse courses).
+
+65:Purchases licenses to participate\nin tournaments.
+
+66:Buy new machines.
+
+67:Purchases cards and music.
+
+68:Return to private area menu.
+
+69:No products available for purchase.
+
+70:View collected cards (Part 1).
+
+71:View collected cards (Part 2).
+
+72:View collected cards (Part 3).
+
+73:View collected cards (Part 4).
+
+74:Return to private area menu.
+
+75:You got 5 cards!
+
+76:You have obtained all of the cards from Series 1.\nCards from Series 2 are now available.
+
+77:You have obtained all of the cards from Series 2.\nCards from Series 3 are now available.
+
+78:You have obtained all of the cards from Series 3.\nCards from Series 4 are now available.
+
+79:You have obtained all of the cards from Series 4.\nYou have a complete set!
+
+80:Browse machines.
+
+81:Return to private area menu.
+
+82:Please select a team.
+
+83:Load replay data.
+
+84:Play replay.
+
+85:Select BGM.
+
+86:Return to private area menu.
+
+87:Set button layout.
+
+88:Turn cut-in effect ON/OFF.
+
+89:Turn the course indicator ON/OFF.
+
+90:Set the sound volume.
+
+91:Turn rumble ON/OFF.
+
+92:Return the settings to default.
+
+93:Exit options.
+
+94:Preset 1
+
+95:Preset 2
+
+96:Preset 3
+
+97:Preset 4
+
+98:Turn the cut-in effect ON/OFF.
+
+99:Turn the course indicator ON/OFF.
+
+100:Set BGM volume.
+
+101:Set sound effect volume.
+
+102:Set voice volume.
+
+103:Set audio output.
+
+104:Turn rumble ON/OFF.
+
+105:Practice without restrictions.
+
+106:Start a single race.
+
+107:Start a knockout race (3 races).
+
+108:Compete for total points (3 races).
+
+109:Challenge the course records.
+
+110:Change options and settings.
+
+111:Manhattan Island City Circuit
+
+112:Campo Grande Circuit
+
+113:Postbridge Airport Circuit (Short Course)
+
+114:Cobalt (does not appear in 15th)
+
+115:Campo Grande Circuit (Short course)
+
+116:Augsburg Circuit
+
+117:Postbridge Airport Circuit
+
+118:Gulf Special Circuit
+
+119:San Marino Circuit
+
+120:Hong Kong City Circuit
+
+121:Sydney Circuit
+
+122:Fujioka Circuit
+
+123:Gulf Special circuit
+
+124:Manhattan Island City Circuit Reverse Course
+
+125:Campo Grande Circuit Reverse Course
+
+126:Postbridge Airport Circuit Reverse Course (Short Course)
+
+127:Cobalt Reverse Course (does not appear in 15th)
+
+128:Campo Grande Circuit Reverse Course (Short Course)
+
+129:Augsburg Circuit Reverse Course
+
+130:Postbridge Airport Circuit Reverse Course
+
+131:Wangan Special Circuit Reverse Course
+
+132:San Marino Circuit Reverse Course
+
+133:Hong Kong City Circuit Reverse Course
+
+134:Sydney Circuit Reverse Course
+
+135:Fujioka Circuit Reverse Course
+
+136:Unused
+
+137:Start the race.
+
+138:Set boost pressure.
+
+139:Select BGM.
+
+140:Change options and settings.
+
+141:Return to arcade menu.
+
+142:Show rankings.
+
+143:%1Start the race.\n%5Clear condition: 1st place%1
+
+144:%1Start the race.\n%5Clear condition: 2nd place%1
+
+145:%1Start the race.\n%5Clear condition: 3rd place%1
+
+146:Start running.
+
+147:Start time attack.
+
+148:Proceed to next round.
+
+149:Watch race replays.
+
+150:Quit the race.
+
+151:Show race results.
+
+152:Show ranking.
+
+153:Proceed to overall results.
+
+154:Try again.
+
+155:Show race results.
+
+156:Watch race replays.
+
+157:Quit the race.
+
+158:%1Try again.\n%5You can retry 3 more times.%1
+
+159:%1Try again.\n%5You can retry 2 more times.%1
+
+160:%1Try again.\n%5You can retry 1 more time.%1
+
+161:Proceed to award ceremony.
+
+162:Save the current state.
+
+163:Return to arcade menu.
+
+164:Proceed to course selection.
+
+165:Load the data.\n%5The types of machines that can be used and the courses\nthat can be selected will change depending on the content of the data.%1
+
+166:Return to title screen.
+
+167:Proceed to machine selection.
+
+168:Select course.
+
+169:Set the number of laps.
+
+170:Set slow car boost.\n%5Turning it on will increase the speed of subsequent machines.%1
+
+171:Return to title screen.
+
+172:Start the race.
+
+173:Select BGM.
+
+174:Change options and settings.
+
+175:Return to title screen.
+
+176:Show race results.
+
+177:Change machine selection, controller operation, etc.
+
+178:Run the race again with the same settings.
+
+179:Watch race replays.
+
+180:Return to title screen.
+
+181:Save replay data.
+
+182:AT (Automatic Transmission).\nGear changes are performed automatically\n(the player can also operate the gears).
+
+183:MT (Manual Transmission)\nAll gear changes are done manually.
+
+184:AT (Automatic Transmission) A gearless transmission that provides super electromagnetic acceleration using a continuously variable transmission.
+
+185:Course record updated!
+
+186:You won the survival match!
+
+187:You won 2nd place in the survival match.
+
+188:You won 3rd place in the survival match.
+
+189:You won the points match!
+
+190:You won 2nd place in points match.
+
+191:You won 3rd place in points match.
+
+192:You placed 4th place in the points match.
+
+193:You placed 5th place in the points match.
+
+194:You placed 6th place in the points match.
+
+195:You won in One Match!
+
+196:You won 2nd place in One Match.
+
+197:You won 3rd place in One Match,
+
+198:You placed 4th place in One Match.
+
+199:You placed 5th place in One Match.
+
+200:You placed 6th place in One Match.
+
+201:You cleared all the Grand Prix competitions!
+
+202:You cleared all the survival match tournaments!
+
+203:You cleared all the point match tournaments!
+
+204:Cleared all of One Match!
+
+205:All course records have been updated!
