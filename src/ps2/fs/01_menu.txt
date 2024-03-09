@@ -28,269 +28,269 @@
 
 14:Change options and settings.
 
-15:グランプリを終了し、\nゲームメニューに戻ります
+15:Exit the Grand Prix and return to the menu.
 
-16:決勝に進みます
+16:Proceed to the finals.
 
-17:予選結果を表示します
+17:Show qualifying results.
 
-18:ここまでの状態をセーブします
+18:Save the game up to this point.
 
-19:グランプリを終了し、\nゲームメニューに戻ります
+19:Exit the Grand Prix and return to the menu.
 
-20:決勝レースを開始します
+20:Set the final race.
 
-21:ブースト圧を設定します
+21:Set boost pressure.
 
-22:ＢＧＭを選択します
+22:Set BGM.
 
-23:オプション設定を変更します
+23:Change options and settings.
 
-24:グランプリを終了し、\nゲームメニューに戻ります
+24:Exit the Grand Prix and return to the menu.
 
-25:次のＲＯＵＮＤに進みます
+25:Proceed to the next round.
 
-26:ランキングを表示します
+26:Show ranking.
 
-27:レースのリプレイを見ます
+27:Watch race replays.
 
-28:ここまでの状態をセーブします
+28:Show ranking.
 
-29:グランプリを終了し、\nゲームメニューに戻ります
+29:Exit the Grand Prix and return to the game.
 
-30:総合結果に進みます
+30:Proceed to final results.
 
-31:最終レースの結果を表示します
+31:Watch race replays.
 
-32:レースのリプレイを見ます
+32:Save replay.
 
-33:これまでの状態をセーブします
+33:Save the current game.
 
-34:ゲームメニューに戻ります
+34:Return to game menu.
 
-35:レースの戦歴を確認できます
+35:Check the race history.
 
-36:ＣＹポイントを使って商品を購入できます
+36:Purchase items using CY points.
 
-37:集めたカードを閲覧できます
+37:View the cards you have collected.
 
-38:セーブしたリプレイデータを見ることが\nできます
+38:View saved replay data.
 
-39:所持しているマシンを閲覧できます
+39:View owned machines.
 
-40:ＢＧＭを聴くことができます
+40:Listen to BGM.
 
-41:ゲームメニューに戻ります
+41:Return to game menu.
 
-42:このゲームにおける現在の状況です
+42:View game progress.
 
-43:各大会のクリア状況です
+43:Check tournament clear status.
 
-44:タイムアタックの記録を表示します
+44:Display time attack records.
 
-45:プライベートエリアメニューに戻ります
+45:Return to private area menu.
 
-46:各コースの記録です（順走コース）
+46:View course records (forward courses).
 
-47:各コースの記録です（逆走コース）
+47:View course records (reverse courses).
 
-48:各大会へ参加する為のライセンスなどを\n購入できます
+48:Purchases licenses to participate\nin tournaments.
 
-49:新しいマシンを購入できます
+49:Buy new machines.
 
-50:カードやＢＧＭを購入できます
+50:Purchases cards and music.
 
-51:プライベートエリアメニューに戻ります
+51:Return to private area menu.
 
-52:集めたカードを見ます（第１弾）
+52:View collected cards (Part 1).
 
-53:集めたカードを見ます（第２弾）
+53:View collected cards (Part 2).
 
-54:集めたカードを見ます（第３弾）
+54:View collected cards (Part 3).
 
-55:プライベートエリアメニューに戻ります
+55:Return to private area menu.
 
-56:マシンを閲覧します
+56:Browse machines.
 
-57:プライベートエリアメニューに戻ります
+57:Return to private area menu.
 
-58:ボタン操作を設定します
+58:Set button layout.
 
-59:カットインエフェクトのＯＮ/ＯＦＦを\n設定します
+59:Turn cut-in effect ON/OFF.
 
-60:コースインジケーターのＯＮ/ＯＦＦを\n設定します
+60:Turn the course indicator ON/OFF.
 
-61:サウンドの設定をします
+61:Set the sound volume.
 
-62:振動のＯＮ/ＯＦＦを設定します
+62:Turn rumble ON/OFF.
 
-63:初期のセッティングに戻します
+63:Return the settings to default.
 
-64:オプションを終了します
+64:Exit options.
 
-65:プリセット１
+65:Preset 1
 
-66:プリセット２
+66:Preset 2
 
-67:プリセット３
+67:Preset 3
 
-68:プリセット４
+68:Preset 4
 
-69:カットインエフェクトのＯＮ/ＯＦＦを\n設定してください
+69:Turn the cut-in effect ON/OFF.
 
-70:コースインジケーターのＯＮ/ＯＦＦを\n設定してください
+70:Turn the course indicator ON/OFF.
 
-71:ＢＧＭのボリュームを設定して下さい
+71:Set BGM volume.
 
-72:効果音のボリュームを設定して下さい
+72:Set sound effect volume.
 
-73:ボイスのボリュームを設定して下さい
+73:Set voice volume.
 
-74:音声出力の設定をしてください
+74:Set audio output.
 
-75:振動のＯＮ/ＯＦＦを設定してください
+75:Turn rumble ON/OFF.
 
-76:何周でも好きなだけ練習走行ができます
+76:Practice without restrictions.
 
-77:１回のみのレースができます
+77:Start a single race.
 
-78:勝ち抜きレースができます(全３戦）
+78:Start a knockout race (3 races).
 
-79:総合ポイントで争うレースができます(全３戦）
+79:Compete for total points (3 races).
 
-80:各コースの記録に挑戦できます
+80:Challenge the course records.
 
-81:オプション設定を変更します
+81:Change options and settings.
 
-82:マンハッタン市街地サーキット
+82:Manhattan Island City Circuit
 
-83:カンボグランデ・サーキット
+83:Campo Grande Circuit
 
-84:ポストブリッジ空港サーキット\n（ショートコース）
+84:Postbridge Airport Circuit (Short Course)
 
-85:コバルト(15thには出ない
+85:Cobalt (does not appear in 15th)
 
-86:カンボグランデ・サーキット\n（ショートコース）
+86:Campo Grande Circuit (Short course)
 
-87:アウグスブルグ・サーキット
+87:Augsburg Circuit
 
-88:ポストブリッジ空港サーキット
+88:Postbridge Airport Circuit
 
-89:湾岸特設サーキット
+89:Gulf Special Circuit
 
-90:サンマリノ・サーキット
+90:San Marino Circuit
 
-91:香港市街地サーキット
+91:Hong Kong City Circuit
 
-92:シドニー・サーキット
+92:Sydney Circuit
 
-93:富士岡サーキット
+93:Fujioka Circuit
 
-94:湾岸特設サーキット
+94:Gulf Special circuit
 
-95:マンハッタン市街地サーキット　逆走コース
+95:Manhattan Island City Circuit Reverse Course
 
-96:カンボグランデ・サーキット　逆走コース
+96:Campo Grande Circuit Reverse Course
 
-97:ポストブリッジ空港サーキット　逆走コース\n（ショートコース）
+97:Postbridge Airport Circuit Reverse Course (Short Course)
 
-98:コバルト(15thには出ない
+98:Cobalt Reverse Course (does not appear in 15th)
 
-99:カンボグランデ・サーキット　逆走コース\n（ショートコース）
+99:Campo Grande Circuit Reverse Course (Short Course)
 
-100:アウグスブルグ・サーキット　逆走コース
+100:Augsburg Circuit Reverse Course
 
-101:ポストブリッジ空港サーキット　逆走コース
+101:Postbridge Airport Circuit Reverse Course
 
-102:湾岸特設サーキット　逆走コース
+102:Wangan Special Circuit Reverse Course
 
-103:サンマリノ・サーキット　逆走コース
+103:San Marino Circuit Reverse Course
 
-104:香港市街地サーキット　逆走コース
+104:Hong Kong City Circuit Reverse Course
 
-105:シドニー・サーキット　逆走コース
+105:Sydney Circuit Reverse Course
 
-106:富士岡サーキット　逆走コース
+106:Fujioka Circuit Reverse Course
 
-107:未使用
+107:Unused
 
-108:レースを開始します
+108:Start the race.
 
-109:ブースト圧を設定します
+109:Set boost pressure.
 
-110:ＢＧＭを選択します
+110:Select BGM.
 
-111:オプション設定を変更します
+111:Change options and settings.
 
-112:アーケードメニューへ戻ります
+112:Return to arcade menu.
 
-113:ランキングを表示します
+113:Show rankings.
 
-114:次のラウンドへ進みます
+114:Proceed to next round.
 
-115:レースのリプレイを見ます
+115:Watch race replays.
 
-116:レースを終了して\nアーケードメニューに戻ります
+116:Quit the race and return to the Arcade Menu.
 
-117:レース結果を表示します
+117:Show race results.
 
-118:ランキングを表示します
+118:Show ranking.
 
-119:総合結果へ進みます
+119:Proceed to overall results.
 
-120:再挑戦します
+120:Try again.
 
-121:レース結果を表示します
+121:Show race results.
 
-122:レースのリプレイを見ます
+122:Watch race replays.
 
-123:レースを終了して\nアーケードメニューに戻ります
+123:Quit the race and return to the Arcade Menu.
 
-124:入賞結果に進みます
+124:Proceed to award ceremony.
 
-125:これまでの状態をセーブします
+125:Save the current state.
 
-126:アーケードメニューへ戻ります
+126:Return to arcade menu.
 
-127:コース選択に進みます
+127:Proceed to course selection.
 
-128:データをロードします
+128:Load this data.
 
-129:タイトル画面に戻ります
+129:Return to title screen.
 
-130:マシン選択に進みます
+130:Proceed to machine selection.
 
-131:コースを選択します
+131:Select course.
 
-132:周回数を設定します
+132:Set the number of laps.
 
-133:スローカーブーストを設定します\nＯＮにすると後のマシンの速度が上がります
+133:Set slow car boost.\nTurning it on will increase the speed of subsequent machines.
 
-134:タイトル画面に戻ります
+134:Return to title screen.
 
-135:レースを開始します
+135:Start the race.
 
-136:ＢＧＭを選択します
+136:Select BGM.
 
-137:オプション設定を変更します
+137:Change options and settings.
 
-138:タイトル画面に戻ります
+138:Return to title screen.
 
-139:レース結果を表示します
+139:Show race results.
 
-140:マシン選択やコントローラ操作などを\n設定する画面に戻ります
+140:Change machine selection, controller operation, etc.
 
-141:レース前の画面に戻ります
+141:Return to pre-race screen.
 
-142:レースのリプレイを見ます
+142:Watch race replays.
 
-143:タイトル画面に戻ります
+143:Return to title screen.
 
-144:ＡＴ（オートマチック・トランスミッション)\nギアチェンジが自動で行われます\n(プレイヤーがギアを操作することもできます)
+144:AT (Automatic Transmission).\nGear changes are performed automatically\n(the player can also operate the gears).
 
-145:ＭＴ(マニュアル・トランスミッション)\nギアチェンジを全て手動で行います
+145:MT (Manual Transmission)\nAll gear changes are done manually.
 
-146:ＡＴ（オートマチック・トランスミッション)\n無段変速機によって超電磁加速をする、\nギアの無いトランスミッションです
+146:AT (Automatic Transmission) A gearless transmission that provides super electromagnetic acceleration using a continuously variable transmission.
 
-147:レコードを更新しました！
+147:Record has been updated!
 

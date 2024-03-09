@@ -28,7 +28,7 @@
 
 14:Change options and settings.
 
-15:Exit Grand Prix and return to the game.\n%5Next time you will resume where you last saved.%1
+15:Exit Grand Prix and return to the menu.\n%5Next time you will resume where you\nlast saved.%1
 
 16:Proceed to final session.
 
@@ -36,7 +36,7 @@
 
 18:Save the game up to this point.
 
-19:Exit the Grand Prix and return to the game.\n%5If you haven't saved, no data will remain.%1
+19:Exit the Grand Prix and return to the menu.\n%5If you haven't saved, no data will remain.%1
 
 20:Set the final race.
 
@@ -46,7 +46,7 @@
 
 23:Change options and settings.
 
-24:Exit the Grand Prix and return to the game.\n%5Next time you will resume where you last saved.%1
+24:Exit the Grand Prix and return to the menu.\n%5Next time you will resume where you last saved.%1
 
 25:Show starting grid.
 
@@ -62,7 +62,7 @@
 
 31:Save the game up to this point.
 
-32:Exit the Grand Prix and return to the game.\n%5Next time you will resume where you last saved.%1
+32:Exit the Grand Prix and return to the menu.\n%5Next time you will resume where you last saved.%1
 
 33:You won the final race!
 
@@ -110,7 +110,7 @@
 
 55:View saved replay data.
 
-56:You can view the machines you own.\n%4You can also see operation advice.%1
+56:View owned machines.\n%4You can also check operation advice.%1
 
 57:Listen to BGM.
 
@@ -220,7 +220,7 @@
 
 110:Change options and settings.
 
-111:Manhattan Island City Circuit
+111:Manhattan Island Circuit
 
 112:Campo Grande Circuit
 
@@ -228,7 +228,7 @@
 
 114:Cobalt (does not appear in 15th)
 
-115:Campo Grande Circuit (Short course)
+115:Campo Grande Circuit (Short Course)
 
 116:Augsburg Circuit
 
@@ -244,9 +244,9 @@
 
 122:Fujioka Circuit
 
-123:Gulf Special circuit
+123:Tokyo Bay Coastal Circuit
 
-124:Manhattan Island City Circuit Reverse Course
+124:Manhattan Island Circuit Reverse Course
 
 125:Campo Grande Circuit Reverse Course
 
@@ -260,7 +260,7 @@
 
 130:Postbridge Airport Circuit Reverse Course
 
-131:Wangan Special Circuit Reverse Course
+131:Tokyo Bay Coastal Circuit Reverse Course
 
 132:San Marino Circuit Reverse Course
 
@@ -328,7 +328,7 @@
 
 164:Proceed to course selection.
 
-165:Load the data.\n%5The types of machines that can be used and the courses\nthat can be selected will change depending on the content of the data.%1
+165:Load this data.\n%5The types of machines that can be used and\nthe courses that can be selected will\nchange depending on the save data content.%1
 
 166:Return to title screen.
 

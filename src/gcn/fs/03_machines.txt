@@ -1,0 +1,102 @@
+00:A powerful machine cap-\nable of using Aero Mode\nand Spiral Boost.\nThe braking is of lower\nquality than most other\nmachines, but if you ride\nit properly you will be\nable to set a great time.\n%4When the red gauge above\nthe boost gauge is full,\npress the Boost button\nagain. With SPIRAL BOOST\nyou can push your machine\neven further!%1
+
+01:Balances grip and speed\nquite well. This machine\nis recommended for begin-\nners as it has no modi-\nfications. Additionally,\nthe top speed is slightly\nhigher than Craytor's\nmachine.\n%4You can turn easily by\nreleasing the accelerator\nbefore the corner and\ntilting the Control Stick\nin the direction you\nwant to turn.%1
+
+02:Balances grip and speed\nquite well. This machine\nis recommended for begin-\nners as it has no modi-\nfications. Additionally,\nthe grip is slightly\nhigher than Kazami's\nmachine and is easier\nto operate.\n%4Until you get used to\ndrifting and boosting,\ntry using an easy-to-use\nmachine. Garland's is a\ngreat choice!%1
+
+03:With little ground\ncontact, corners can be\npushed to the absolute\nlimit! The boost power is\nhigher than Heinel's\nmachine.\n%4The steel body itself is\na weapon. Even if the\nwing protrudes a little\nfrom the track, it will\nnot slow it down. Aim to\nwin by cutting inside the\ncorner!%1
+
+04:With little ground\ncontact, corners can be\npushed to the absolute\nlimit! It has better grip\nand acceleration than\nGudelhian's machine.\n%4As a GRIP CAR you can't\nuse drift, so you won't\nbe able to turn unless\nyou slow down on entering\nthe turns. Upon exiting\nthe turn is the time to\naccelerate.%1
+
+05:Equipped with a powerful\nboost MESSER WING. It has\nhigher grip and acceler-\nation than Shinjo's\nmachine, and has a better\noverall performance bal-\nance among GRIP CARS.\n%4Grip cars such as\nRandoll's Issuxark cannot\nuse drifting, so they\ncannot turn without slow-\ning down first. Exiting\nthe turn is when speed\nreally counts!%1
+
+06:Equipped with a powerful\nboost MESSER WING. Unlike\nRandoll's machine, it is\na DRIFT CAR and has a\nhigh top speed.\n%4MESSER WING is a powerful\nboost, but there is a\ndelay before it is activ-\nated. If you can make\nfull use of this boost,\nyou're sure to win! If\nthis machine is used\nproperly you will start\nto really go places!\n%1
+
+07:A machine with strong\ngrip performance and max-\nimum speed. Since there\nis an Aero Mode, oper-\nation becomes a little\nmore difficult. Unlike\nFritz's machine, it is a\nDRIFT CAR.\n%4Try to gain as much time\nin Aero Mode as possible.\nAt each corner, return to\ncircuit mode drift and\nchange to Aero Mode again\nat the end of the corner!%1
+
+08:A machine with strong\ngrip performance and max-\nimum speed. Since there\nis an Aero Mode, oper-\nation becomes a little\nmore difficult. Fritz's\nmachine is a GRIP CAR, so\nit's faster than Kaga's.\n%4Try to gain as much time\nin Aero Mode as possible.\nAt each corner, return to\ncircuit mode drift and\nchange to Aero Mode again\nat the end of the corner!%1
+
+09:Although its acceleration\nand boost recovery are\nlacking, its top speed is\nquite high. Compared to\nBootsvorz's machine, the\speed is even higher.\n%4By driving behind an\nenemy machine, a tech-\nnique called SLIPSTREAM\nor SLIP, there is less\nair resistance, so you\ncan drive faster than the\nmachine you are using!%1
+
+10:Although its acceleration\nand boost recovery are\nlacking, its top speed is\nquite high. Compared to\nEarnhardt's machine, grip\nis much more stable.\n%4If you use Slip, your\nspeed increases, so you\ncan catch up quickly.\nMachines with low boost\nrecovery will be easier\nto use by lowering the\nboost pressure.%1
+
+11:A good balance of grip\nand speed, this machine\nis a recommended choice\nfor beginners. The top\nspeed is a little higher\nthan Anderson's machine.\n%4You can turn easily by\nreleasing the accelerator\nright before the turn.\nMachines with lower top\nspeeds are easier to con-\ntrol. Remember to choose\na machine that best fits\nyour skill level!%1
+
+12:A good balance of grip\nand speed, this machine\nis a recommended choice\nfor beginners. The grip\nand boost recovery are a\nlittle higher than Nina's\nmachine.\n%4You can further cut time\nby adjusting the boost\npressure for the course.\nDon't get caught up in\nthe boost sections, try\nsearching for places that\nbest suit your machine!%1
+
+13:Boasts high potential in\nall areas. However, since\nthe grip strength drops\ndrastically when boost-\ning, precision driving is\nrequired. It has higher\ngrip and boost recovery\nthan Norris' machine.\n%4A machine with high\nacceleration can push the\nenemy machine out of the\ncorner. Close the enemy's\nlead and bring it to your\nown pace!%1
+
+14:Boasts high potential in\nall areas. However, since\nthe grip strength drops\ndrastically when boost-\ning, precision driving is\nrequired. Compared to\nLuiza's machine, it has\nhigher top speed.\n%4Grip cars can make subtle\ndecelerations without\ndrifting, so you can\ndrive smoothly using Slip\nto catch up from behind\nan enemy machine!%1
+
+15:Well balanced with good\ngrip and boost recovery,\nwith a lower top speed.\nIt has higher grip than\nElfman's machine.\n%4A drift car with high\ngrip, it drifts briefly\nat the start of the turn\nand then boosts, allowing\nyou to turn at high\nspeeds! To make the most\nof the boost, try adjust-\ning boost pressure and\nusing various techniques!%1
+
+16:Well balanced with good\ngrip and boost recovery,\nwith a lower top speed.\nCompared to Nehru's\nmachine, it has higher\ntop speed, acceleration,\nand boost recovery.\n%4Boosting is also an eff-\nective method for over-\ntaking enemy machines.\nYou can boost to get\nbehind the enemy machine\nand use Slip to catch up\nmore effectively!%1
+
+17:Although the top speed is\nnot high, the grip and\nboost recovery ability\nare outstanding. It has a\nhigher top speed than\nJobert's machine.\n%4Boosting is also an eff-\nective method for over-\ntaking enemy machines.\nYou can boost to get\nbehind the enemy machine\nand use Slip to catch up\nmore effectively! %1
+
+18:A unique machine that is\nvery slow but boasts\nextremely high stats.\n%4Short straightaways and\ngentle S-curves are per-\nfect boost sections. To\nuse your boost wisely,\nadjust the boost pressure\nfor each course. It is\nvery slow, so it will\noften have a hard time in\nraces. Aim for victory\nand don't be afraid of\nusing some dirty driving!%1
+
+19:Although lacking in\nspeed, the grip makes up\nfor it. Compared to\nBrayton's machine, it has\nhigher acceleration,\ngrip, and boost recovery.\n%4With an exception of 90-\ndegree turns and hair-\npins, most turns can be\ntaken at full throttle.\nFind the right line and\ntry to keep your foot on\nthe accelerator as much\nas possible.%1
+
+20:Although lacking in\nspeed, the grip makes up\nfor it. Compared to\nBrioche's machine, it has\nhigher maximum speed.\n%4Even if you enter a turn\nwhile boosting, if the\ncorner is gentle, you can\ntap the brake and turn.\nIn order to make the most\nof the boost, try various\ntechniques along with\nadjusting the boost\npressure!%1
+
+21:A particularly good bal-\nance of grip and speed.\nCompared to Belhausen's\nmachine, the boost recov-\nery is slightly higher.\n%4Boost is very effective\nwhen overtaking enemy\nmachines. You can boost\nto get behind the enemy\nmachine and use Slip to\ncatch up more effect-\nively. If boosting is\nyour thing, this will let\nyou perform them often!%1
+
+22:A particularly good bal-\nance of grip and speed.\nCompared to Reizengua's\nmachine, grip and boost\nspeed are higher.\n%4A drift car with high\ngrip, it drifts briefly\nat the start of the turn\nand then boosts, allowing\nyou to turn at high\nspeeds! To make the most\nof the boost, try adjust-\ning boost pressure and\nusing various techniques!%1
+
+23:Although its top speed\nranks low, it has high\ngrip. Compared to Vitte's\nmachine, its acceleration\nis slightly higher.\n%4Boost is also effective\nwhen overtaking enemy\nmachines. You can boost\nand get behind the enemy\nmachine and use Slip to\ncatch up more effect-\nively. If boosting is\nyour thing, this will let\nyou perform them often! %1
+
+24:Although its top speed\nranks low, it has high\ngrip. Compared to Lenz's\nmachine, the speed and\ngrip are slightly higher.\n%4A drift car with high\ngrip, it drifts briefly\nat the start of the turn\nand then boosts, allowing\nyou to turn at high\nspeeds! To make the most\nof the boost, try adjust-\ning boost pressure and\nusing various techniques!%1
+
+25:Although lacking in\nspeed, it ranks among the\nbest in terms of grip.\nIt is also slightly\nfaster than Foitek's.\n%4Boost is very effective\nwhen overtaking enemy\nmachines. You can boost\nto get behind the enemy\nmachine and use Slip to\ncatch up more effect-\nively. If boosting is\nyour thing, this will let\nyou perform them often!%1
+
+26:Although lacking in\nspeed, it ranks among the\nbest in terms of grip.\nThe grip is slightly\nhigher than Hiyoshi's.\n%4A drift car with high\ngrip, it drifts briefly\nat the start of the turn\nand then boosts, allowing\nyou to turn at high\nspeeds! To make the most\nof the boost, try adjust-\ning boost pressure and\nusing various techniques!%1
+
+27:操作感は加賀のアルザードとほ\nぼ同じ。性能は全般的にバラン\nスが良く、無難な強さを発揮で\nきる。新条のマシンより、最高\n速・加速力が少し高い。\n%4普段は可能な限りエアロモード\nでタイムを稼ごう。コーナーで\nは、サーキットモードに戻りド\nリフト、そしてコーナー立ち上\nがりで再びエアロモードにチェ\nンジだ！%1
+
+28:操作感は加賀のアルザードとほ\nぼ同じ。性能は全般的にバラン\nスが良く、無難な強さを発揮で\nきる。加賀のマシンと比べて、\nグリップ性能が少し高い。\n%4普段は可能な限りエアロモード\nでタイムを稼ごう。コーナーで\nは、サーキットモードに戻りド\nリフト、そしてコーナー立ち上\nがりで再びエアロモードにチェ\nンジだ！%1
+
+29:ゲームオリジナルとして特別に\nチューニングされたマシン。エ\nアロモードでの最高速・グリッ\nプ性能も高く、全般的に高性能\nなマシンとなっている。\n%4普段は可能な限りエアロモード\nでタイムを稼ごう。コーナーで\nは、サーキットモードに戻りド\nリフト、そしてコーナー立ち上\nがりで再びエアロモードにチェ\nンジだ！%1
+
+30:ゲームオリジナルとして、特別\nにチューニングされたマシン。\nサーキットモードでもブースト\nできる、グリップ性能が高いな\nどの特徴があり、更にコースア\nウト時の減速が他マシンよりか\nなり抑えられている。\n%4グリップ性能の高いドリフト車\nはコーナー入り口で一瞬ドリフ\nトした後にブーストを開始する\nと、高速でコーナーを曲がって\nいけるぞ！このテクニックを駆\n使すれば有効にブーストを使う\nことができるハズだ。%1
+
+31:ゲームオリジナルとして、特別\nにチューニングされたマシン。\nエアロモード時のグリップ性能\nがあまり落ちない、コースアウ\nト時にラリーモードに自動変形\nすることで減速を抑えるなどの\n特徴がある。\n%4コースに合わせてブースト圧を\n調整すれば更にタイムを短縮で\nきる。マシンに合ったブースト\nポイントを探ってみよう。この\nマシンである条件を満たすと、\nさらなる境地を開拓することが\nできるだろう。%1
+
+32:ゲームオリジナルとして、特別\nにチューニングされたマシン。\nエアロモード時のグリップ性能\nがあまり落ちない、最高速が高\nいなど、全体的にバランスが良\nく安定した走りをすることがで\nきる。\n%4コースに合わせてブースト圧を\n調整すれば更にタイムを短縮で\nきる。既存のブースト区間に捕\nらわれず、マシンに合ったブー\nストポイントを探ってみよう！%1
+
+33:グリップ性能・最高速ともに強\n力なマシン。エアロモードがあ\nるので操作はやや難しくなる。\nエアロモード時のグリップ性能\nがあまり落ちないなど、全般的\nに高い性能を誇るマシン。\n%4普段は可能な限りエアロモード\nでタイムを稼ごう。コーナーで\nは、サーキットモードに戻りド\nリフト、そしてコーナー立ち上\nがりで再びエアロモードにチェ\nンジだ！%1
+
+34:グリップ性能・最高速ともに強\n力なマシン。エアロモードがあ\nるので操作はやや難しくなる。\nエアロモード時のグリップ性能\nがあまり落ちないなど、全般的\nに高い性能を誇るマシン。加速\n力には光るものがある。\n%4普段は可能な限りエアロモード\nでタイムを稼ごう。コーナーで\nは、サーキットモードに戻り減\n速、そしてコーナー立ち上がり\nで再びエアロモードにチェンジ\nだ！%1
+
+35:サーキットモードとエアロモー\nドでのグリップ性能の差が激し\nく、非常にクセのあるマシン。\n「スーパーエアロブースト」発\n動時には、全マシンの中でも最\n高ランクの速度に達する。\n%4オーガ特有の驚異のグリップ性\n能を駆使することで大抵のコー\nナーをフルアクセルで曲がって\nいくことができる。しかし、瞬\n間的なテクニックを駆使しなけ\nればすぐにクラッシュしてしま\nう。ドライバーの腕によって明\n暗が分かれるマシンだ！%1
+
+36:操作感はν-アスラーダと同じ\nだが、エアロモード時の最高速\nは高く「スパイラルブースト」\n発動時の速度は、全マシンの中\nでもトップランクを誇る。\n%4普段は可能な限りエアロモード\nでタイムを稼ごう。コーナーで\nは、サーキットモードに戻りド\nリフト、そしてコーナー立ち上\nがりで再びエアロモードにチェ\nンジだ！%1
+
+37:操作感はクレイトーのガーラン\nドと同じ。最高速が高く、操作\nのし易いマシンである。\n%4どうしてもクリアできない難し\nい大会がある時でも、このマシ\nンがあれば心強いことだろう。\nコースに合わせてブースト圧を\n調整すれば更にタイムを短縮で\nきる。既存のブースト区間に捕\nらわれず、マシンに合ったブー\nストポイントを探ってみよう！%1
+
+38:ゲームオリジナルとして、特別\nにチューニングされたマシン。\n操作感は風見のν-アスラーダ\nとほぼ同じ。グリップ性能がや\nや高い。\n%4普段は可能な限りエアロモード\nでタイムを稼ごう。コーナーで\nは、サーキットモードに戻りド\nリフト、そしてコーナー立ち上\nがりで再びエアロモードにチェ\nンジだ！%1
+
+39:ゲームオリジナルとして、特別\nにチューニングされたマシン。\nガーランドの中で唯一「グリッ\nプ車」である。加速力・最高速\nにおいて高い性能を誇り、操作\nもし易いマシンである。\n%4加速性能の高いマシンなら、敵\nマシンをコーナー立ち上がりで\n突き放せる。敵の追上げをうま\nくブロックして、自分のペース\nに持ち込もう！%1
+
+40:ゲームオリジナルとして、特別\nにチューニングされたマシン。\n操作感は風見のガーランドとほ\nぼ同じ。グリップ性能・ブース\nト回復力が高く、操作のし易い\nマシンである。\n%4短い直線や、ゆるいＳ字などは\nこのマシンにとって絶好のブー\nスト区間だ。ブーストを最大限\nに活用する為に、コースに合わ\nせたブースト圧の調整をしてみ\nよう！%1
+
+41:ゲームオリジナルとして、特別\nにチューニングされたマシン。\n操作感は加賀のアルザードとほ\nぼ同じ。グリップ性能・ブース\nト回復力・加速力が高い。高性\n能な上に、非常に使い易いマシ\nンである。\n%4コースに合わせてブースト圧を\n調整すれば更にタイムを短縮で\nきる。既存のブースト区間に捕\nらわれず、マシンに合ったブー\nストポイントを探ってみよう！%1
+
+42:ゲームオリジナルとして、特別\nにチューニングされたマシン。\n操作感はフリッツのアルザード\nとほぼ同じ。グリップ性能・加\n速力・最高速が高い。\n%4コースに合わせてブースト圧を\n調整すれば更にタイムを短縮で\nきる。既存のブースト区間に捕\nらわれず、マシンに合ったブー\nストポイントを探ってみよう！%1
+
+43:エアロモード、スパイラルブー\nストを使える強力なマシン。風\n見のν-アスラーダと違って、\n「グリップ車」である。ブレー\nキ性能がやや劣るが最高速は高\nく、乗りこなすことさえできれ\nば、いいタイムをマークできる\nハズだ。\n%4ブーストゲージの上の赤いゲー\nジが満タンになったら、もう１\n度、ブーストボタンを押そう。\n「スパイラルブースト」で更に\n加速することができるぞ！%1
+
+44:ゲームオリジナルとして、特別\nにチューニングされたマシン。\n司馬のマシンに比べ、グリップ\n性能・加速力・ブースト回復力\nが高くなっている。\n%4普段は可能な限りエアロモード\nでタイムを稼ごう。コーナーで\nは、サーキットモードに戻り減\n速、そしてコーナー立ち上がり\nで再びエアロモードにチェンジ\nだ！%1
+
+45:ゲームオリジナルとして、特別\nに用意されたマシン。グリップ\n性能はオーガ並で、ブースト回\n復力・ブースト時の最高速は全\nマシンの中でもトップランクに\n入る。コースアウト時の減速も\n極限まで抑えられている。\n%4通常時の速度が極端に低いので\nいかに連続してブーストしてい\nけるかが勝利のカギとなるだろ\nう！視点を変えてみることで新\nたな走りが開拓できるかも？%1
+
+46:ゲームオリジナルとして、特別\nにチューニングされたマシン。\nν-アスラーダと同じ様に２段\n階目のブーストを使用すること\nができる。通常のストラトミッ\nショネルに比べ、全般的に性能\nが高く、使い易いマシンとなっ\nている。\n%4コースに合わせてブースト圧を\n調整すれば更にタイムを短縮で\nきる。既存のブースト区間に捕\nらわれず、マシンに合ったブー\nストポイントを探ってみよう！%1
+
+47:ゲームオリジナルとして、特別\nにチューニングされたマシン。\nハイネルのシュティールに比べ\nグリップ性能・ブースト回復力\nが高くなっている。\n%4少々のコーナーならフルアクセ\nルで曲がっていけるぞ。接地面\n積が狭いというシュティールの\n特徴を最大限に生かして、コー\nナーでのオーバーテイクをどん\nどん狙っていこう！%1
+
+48:ゲームオリジナルとして、特別\nにチューニングされたマシン。\nグリップ性能・最高速ともに強\n力なマシン。エアロモードがあ\nるので操作はやや難しくなる。\nエアロモード時のグリップ性能\nがあまり落ちないなど、全般的\nに高い性能を誇る。\n%4普段は可能な限りエアロモード\nでタイムを稼ごう。コーナーで\nは、サーキットモードに戻り減\n速、そしてコーナー立ち上がり\nで再びエアロモードにチェンジ\nだ！%1
+
+49:ゲームオリジナルとして、特別\nにチューニングされたマシン。\nν-アスラーダと同じ様に２段\n階目のブーストを使用すること\nができる。通常のイシュザーク\nに比べ、全般的に性能が高く、\n使い易いマシンとなっている。\n%4加速性能の高いマシンなら、敵\nマシンをコーナー立ち上がりで\n突き放せる。敵の追上げをうま\nくブロックして、自分のペース\nに持ち込もう！%1
+
+50:ゲームオリジナルとして、特別\nにチューニングされたマシン。\nν-アスラーダと同じ様に２段\n階目のブーストを使用すること\nができる。通常のイシュザーク\nに比べ、全般的に性能が高く、\n使い易いマシンとなっている。\n%4グリップ性能の高いドリフト車\nはコーナー入り口で一瞬ドリフ\nトした後にブーストを開始する\nと、高速でコーナーを曲がって\nいけるぞ！このテクニックを駆\n使すれば有効にブーストを使う\nことができるハズだ。%1
+

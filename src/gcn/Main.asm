@@ -6,16 +6,12 @@ origin $000000; insert "../../input/Shinseiki GPX Cyber Formula [J].iso" // Incl
 
 macro Text(OFFSET, TEXT) {
   map 0, 0, 256 // Map Default ASCII Chars
-  map '|', 0x00 // End of string 
+  map '\n', 0x0A // End of string 
 
   origin {OFFSET}
-  
-  //while (read({OFFSET} + str.len(TEXT)) != 0x00) {
-  //  {TEXT} += 0x00
-  //}
 
   db {TEXT} // ASCII Text To Print
-
+  db 0x00
 }
 
 macro TextShiftJIS(OFFSET, TEXT) {
