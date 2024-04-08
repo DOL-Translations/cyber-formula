@@ -59,6 +59,10 @@ macro ReplaceAsset(ORIGIN, FILE, SIZE) {
 }
 
 //Region
+Text($82A51, "U")
+Text($84A24, "U")
+Text($93812, "U")
+Text($3CB014, "U")
 
 //include "Banner.asm"
 //include "Menu.asm"
