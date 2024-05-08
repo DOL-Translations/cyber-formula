@@ -7,7 +7,9 @@ The second region-locked motorsports GameCube game is racing into your living ro
 
 ## Patching
 #### xdelta patch
-- Unavailable
+- Download [Delta Patcher](https://www.romhacking.net/utilities/704/)
+- Grab the [latest release](https://github.com/DOL-Translations/cyber-formula/releases/latest/)
+- Open Delta Patcher and add the translation xdelta patch and the required language iso.
 #### manual patch (Latest changes, Windows only)
 - Drop the required language iso (non-nkit compressed) into the `input` folder.
     - Make sure it is named properly! Refer to the header of the readme for more info.
