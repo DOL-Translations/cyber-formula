@@ -7,8 +7,8 @@ origin $000000; insert "../../input/Shinseiki GPX Cyber Formula [J].iso" // Incl
 macro Text(OFFSET, TEXT) {
   map 0, 0, 256 // Map Default ASCII Chars
   map '\n', 0x0A // New line
-  map 'É¡', 0x83C1 // Greek Gamma
-  map 'ÉÀ', 0x83CB // Greek Nu
+  map $03BD, 0x83C1 // Greek Gamma
+  map $03B3, 0x83CB // Greek Nu
 
   origin {OFFSET}
   variable availableLength = 0;
@@ -103,7 +103,9 @@ origin $3; db $45 //E
 origin $45B; db $01
 
 include "Banner.asm"
+include "System.asm"
+
+include "Audio.asm"
 include "Garage.asm"
 include "Menu.asm"
-include "System.asm"
 include "Txtd.asm"

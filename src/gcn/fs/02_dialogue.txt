@@ -920,11 +920,11 @@
 
 460:Welcome to Arcade, where you can practice your skills or push yourself harder!
 
-461:Welcome to Private Area, where you can take a break from the endless racing! 
+461:Welcome to Private Area, where you can\ntake a break from the endless racing! 
 
 462:If you ever need a break from the action, feel free to stop by here again.
 
-463:Welcome to the Audio Room! Here you can listen to your favorite music from the game!
+463:Welcome to the Audio Room!\nHere you can listen to your favorite music\nfrom the game!
 
 464:See you soon!
 
