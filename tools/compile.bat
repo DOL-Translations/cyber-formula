@@ -31,7 +31,7 @@ if %ISOSize% equ %GCNISOTargetSize% (
     py "TXTD Repacker.py" ../src/ps2/fs/03_machines.txt ../src/ps2/fs/03_machines.txtd
     bass\\win\\bass.exe ..\\src\\ps2\\Main.asm
 ) else (
-    echo [INFO] "%ISOFile%" was has an incorrect size
+    echo [INFO] "%ISOFile%" has an incorrect size
     echo Are you using the uncompressed ROM?
     echo Exiting in 10 seconds..
     C:\Windows\System32\timeout.exe /t 10 /nobreak >nul

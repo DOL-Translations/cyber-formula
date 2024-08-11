@@ -1,20 +1,20 @@
-00:自分で戦って、\n勝った証がチェッカーなんだ！
+00:I race alone, and this\ncheckered flag is proof of it!
 
-01:アスラーダ、いくぞ\n何としてもこのレースは！
+01:Let's go, Asurada!\nWe'll win this race no matter what!
 
-02:見ててくれよ、あすか・・・\nアスラーダ、出ます！
+02:Watch out for me, Asuka..\nAsurada, we're going!
 
-03:今日は本当のレースってヤツを\n見せてやるさ！
+03:Today I'll show you what a real racer looks like!
 
 04:負けるつもりでグリッドに\n着くつもりはないさ\n今日のレース、楽しみにしているよ！
 
 05:勝てるとは思ってなかった・・・\n勝ちたいとは思ったけどね！
 
-06:くそぉ・・・\n追いつけなきゃ\nどうすることもできない！
+06:Damn..\nIf I can't catch up, there's no hope left!
 
 07:まだマシンのポテンシャルを\n引き出し切れていない！\nもっと走り込まないとダメだ！
 
-08:僕も、\n皆さんに負けないように\n頑張ります！
+08:I'll do my best, I'm not going to lose to you guys!
 
 09:準備ＯＫです、\nいつでもいけます！
 
@@ -52,11 +52,11 @@
 
 26:まっ、出来るかぎり\n頑張らせてもらうさ！\n・・・じゃ、いってみっか！！
 
-27:勝負はこっからだ！\n逃げ出すんじゃねぇぞ！！
+27:Don't run away!\nThe battle's just getting started!!
 
-28:元気じゃねぇかよ、随分！\n・・・へっ\n受けて立ってやるぜ！！
+28:Looking good over there!\nI think I might just take you on!!
 
-29:ドライバーってのは\n走るのが仕事なの！\n走ってその結果が全てなんだよ！
+29:Hey, a driver's gotta drive! It's the results that matter!
 
 30:やってくれるじゃねぇか\nあのヤロォ〜！
 
@@ -80,43 +80,43 @@
 
 40:私が走ろう\n私の設計したマシンだ\n死角は無い！
 
-41:私の設計理論が正しいということを\n証明してみせる！\n・・・いくぞ！
+41:I will prove my designs superior.\n...Bring it on!
 
-42:優勝？\nそれはすでに決まっている\n無論、この私だよ！
+42:The winner?\nDon't even bother checking.\nIt's me, of course!
 
-43:・・・ああ、失礼、\nよろしくお願いします
+43:...I best be leaving now, thank you.
 
-44:負ける訳にはいかない！
+44:I won't lose!
 
-45:このレースで優勝できたことは\nドライバーとして、そしてマシンの\n設計者として２重にうれしい
+45:Winning this race proves that I am\nthe best on the track and in the garage!
 
-46:このような結果になるとは・・・\nこの私としたことが！\nすぐに設計の見直しに入らねばならん
+46:I never thought it would end this way..\nWhat a disgrace!\nI need to revise my designs right away!
 
-47:マシンの性能を\n熟知していながらこの結果とは・・・！\n情けない！！
+47:I knew this machine like the back of my\nhand, and yet this is still the result!\nHow pathetic!
 
-48:オゥラ〜イ！\nミーにド〜ンと、\nまかせなさ〜い！！
+48:A-woo!\nI can help you with that, little lady!
 
-49:オゥケ〜イ！\nミーに、おまかせねェ！！
+49:A-woo!\nLooks like you need a little help there!
 
-50:さっさと片付けて、\nカワイコちゃんとゆっくり\nしたいとこだネェ〜！
+50:Let's get this done quickly so I can have some time with this cutie over here!
 
-51:大将、燃えてるねェ！\nチッチッチッ、だけどそんなんじゃ\nゴール前までに燃え尽きちゃうんじゃない？
+51:Boss, you're on fire!\nJust don't push yourself too hard or you\nwon't make it to the finish.
 
-52:ウォッス！\nよろしくぅ！！
+52:Whoa there!\nThanks for the heads-up!
 
-53:イッチバ〜ン！\nオフコース、\nミーは強いんだから！！
+53:Got in a little rodeo over there!
 
-54:ハイネルちゃ〜ん、\nもっと速いマシン用意してくれなきゃ、\nミーだって勝てないよォ！
+54:Heinel, if you can't even fit my Stallion\nwith the speed she needs, even\nI can't win!
 
-55:あっあ、あ〜！？\nどこいくのぉ〜\nミーのレィディ達〜！！
+55:Ah!?\nJust where are you going, my ladies!?
 
-56:あらゆるスポーツの頂点を極めた\n僕が走るんだ\n負ける訳がないだろう？
+56:I've reached the pinnacle of every sport!\nThere's no way I can lose, right?
 
-57:いいレースにしようじゃないか\nさぁ、出るぞ！
+57:Let's make this a great race!\nGo Issuxark!
 
-58:僕が、\n天才と呼ばれている訳を\n教えてやるよ！
+58:You're about to see why they\ncall me the child prodigy!
 
-59:父上と母上もいらしてるんだ\n今日は勝たせてもらうよ！
+59:This win's for you, Mom and Dad!
 
 60:ふん、\nランドル家の人間を\nあなどるなよ！
 
@@ -128,9 +128,9 @@
 
 64:オレも気づけばベテランか・・・\nフフッ、それじゃベテランならではの\n走りってヤツを見せてやるさ！
 
-65:レースが近づくと血がたぎるね！\nやはり、オレは根っからの\nレーサーってことだ
+65:My blood boils at the sound of every race.\nI guess I am a racer, through and through.
 
-66:このレース、\n意地でもオレがもらう\n・・・さぁて、いこうか！
+66:I'll win this race if it kills me..\nLet's go!
 
 67:ふんっ、\nただ飛ばすだけでは\nレースには勝てん！
 
@@ -256,7 +256,7 @@
 
 128:オレは・・・\nオレのレースをするだけだ\nいくぞっ！
 
-129:このレース、\nオレが頂くぜ！\nプロの意地を見せてやる！
+129:I'll show you what it means to be a professional racer!
 
 130:ドライバーとしてのオレの実力、\nとくと見せてやるぜ！
 
@@ -446,21 +446,21 @@
 
 223:バカな！\nこの私が負けただと・・・！？
 
-224:選択ボイス１（未使用）
+224:dummy
 
-225:選択ボイス２（未使用）
+225:dummy
 
-226:選択ボイス３（未使用）
+226:dummy
 
-227:ライバルボイス１（未使用）
+227:dummy
 
-228:ライバルボイス２（未使用）
+228:dummy
 
-229:１位ボイス（未使用）
+229:dummy
 
-230:２位ボイス（未使用）
+230:dummy
 
-231:３位ボイス（未使用）
+231:dummy
 
 232:私のガーランドはすごいわよ〜\n他のマシンなんか\nスーイスイッ、って抜かしちゃうんだから！
 
@@ -670,21 +670,21 @@
 
 335:あ〜・・・ハハハ\nほら、あたし本業はキャンギャルだしィ〜\n・・・何よ、文句ある！？
 
-336:選択ボイス１（未使用）
+336:dummy
 
-337:選択ボイス２（未使用）
+337:dummy
 
-338:選択ボイス３（未使用）
+338:dummy
 
-339:ライバルボイス１（未使用）
+339:dummy
 
-340:ライバルボイス２（未使用）
+340:dummy
 
-341:１位ボイス（未使用）
+341:dummy
 
-342:２位ボイス（未使用）
+342:dummy
 
-343:３位ボイス（未使用）
+343:dummy
 
 344:グーテンターク！（こんにちは！）\n初めまして、フランツ・ハイネルの妹\nリサ・ハイネルで〜っす！
 
@@ -816,185 +816,185 @@
 
 408:負けてもいいなんて思ってたら\nレースに出る意味なんてない！
 
-409:よくやった！
+409:Well done!
 
 410:敵ながら、あっぱれだ
 
 411:やられた・・・すまない
 
-412:サイバーフォーミュラ！
+412:Cyber Formula!
 
-413:サイバーフォーミュラ・グランプリへ\nようこそ！
+413:Welcome to the Cyber Formula Grand Prix!
 
-414:がんばって！
+414:Do you best!
 
-415:がんばってね！
+415:Good luck!
 
-416:いってらっしゃい
+416:Have a nice ride!
 
-417:がんばって！
+417:Do your best!
 
-418:いくわよ〜！
+418:Let's go！
 
-419:いっちゃえ〜！
+419:Go for it！
 
-420:ゲームモードを選んでね！
+420:Choose a game mode!
 
-421:ここは、グランプリモードよ
+421:This is Grand Prix mode.
 
-422:長い戦いになるわ\nがんばって挑戦してね！
+422:The road will be\nlong and hard, so be prepared! 
 
-423:ここは、アーケードモードよ
+423:This is Arcade mode.
 
-424:いろんなレースがあって\n目移りしちゃうけど
+424:Here you can practice you skills
 
-425:まずは、マシンの操作に\nなれなきゃね！
+425:with a whole bunch of races to choose from!
 
-426:ここは、プライベートエリアよ
+426:This is Private Area.
 
-427:ここでは、\n手に入れたマシンをじっくり見たり\nＢＧＭを聴いたりできるの
+427:Here, you can take a look at\nmachines you've unlocked,
 
-428:ＣＹポイントを使って、\nショッピングだって\nできちゃうんだから！
+428:listen to your favorite tracks,\nand shop with earned CY Points!
 
-429:レースに疲れたら、\nいつでも戻ってきてね\n待ってるわ！
+429:If you ever need a break from the action, feel free to stop by here again.
 
-430:ようこそ！オーディオルームへ
+430:Welcome to the Audio Room!
 
-431:最高にクールなＢＧＭを\n思いっきり楽しんでいってね！
+431:Here you can listen to your favorite music from the game!
 
-432:それじゃ、またね！
+432:See you soon!
 
-433:ようこそ！リプレイシアターへ
+433:Welcome to the Replay Theater!
 
-434:今回は、\nどんな走りを見せてくれるのかしら？
+434:Have any new driving tricks to show off?
 
-435:あなたのスーパープレイに\n期待してるわ！
+435:I'm looking forward to seeing\nyour ace driving!
 
-436:ようこそ！カードギャラリーへ
+436:This is the Card Gallery.
 
-437:また、遊びに来てね！
+437:Come again soon!
 
-438:まだまだ先は長いわ\nがんばってね！
+438:You currently own only a few cards.\nBetter start collecting!
 
-439:すごいじゃな〜い！\nだいぶ集まってきたわね
+439:Looks like you've gathered quite a few!
 
-440:もう少しよ、\nがんばって！
+440:Your collection is looking almost complete!
 
-441:すっご〜い、\nコンプリートよ！！\nおつかれさま！
+441:Wow! You've managed to collect all of the cards! Great job!
 
-442:ようこそ！ガレージへ
+442:Welcome to the Garage!
 
-443:あなたが閲覧できるマシンは\n今のところ・・・\nこれだけみたいね
+443:These are the only machines you can currently view.
 
-444:カープラザで\n新しいマシンを購入すれば、\nここで閲覧できるようになるわ！
+444:If you buy a new machine at the Car Plaza, you will be able to view it here!
 
-445:マシンの管理は私に任せて\nレースは、あなたに任せるわ！
+445:Just leave the garage to me,\nand I'll leave the racing to you!
 
-446:まだまだマシンは手に入るわよ\nがんばってＣＹポイントをためて、\nどんどんゲットしちゃえ〜！
+446:There's still quite a few more machines\nto collect, try saving up your CY Points\nto get more!
 
-447:うふふっ、\nマシンが増えてきたみたいね〜\nこの調子でがんばって！ファイトォ！
+447:Looks like you've got a few more machines in the garage! Keep up the great work!
 
-448:もうちょっとで全てのマシンが集まるわ\nここからがタイヘンよ、\nがんばれ〜！
+448:You're almost there, but it's only going to get harder from here, so try your best! 
 
-449:うわぁ〜、\nとうとう全部集めちゃったのね！\nこれで、めいっぱいマシンを閲覧できるわよ！
+449:Wow, I can't believe it,\nyou've collected all of the machines!
 
-450:サイバーフォーミュラ！
+450:Cyber Formula!
 
-451:サイバーフォーミュラ・グランプリへ\nようこそ！
+451:Welcome to the\nCyber Formula Grand Prix!
 
-452:夢を実現するんだ！
+452:Reach for the stars!
 
-453:頑張ってくれ、\n期待しているぞ！
+453:Do your best,\nwe're all counting on you!
 
-454:大丈夫\n君ならやれるさ！
+454:You can win this! 
 
-455:頑張ってくれ、\n期待しているぞ！
+455:Do your best,\nwe're all counting on you!
 
-456:大丈夫\n君ならやれるさ！
+456:You can win this!
 
-457:大丈夫\n君ならやれる！
+457:You can do it!
 
-458:ゲームモードを選んでくれ
+458:Choose a game mode.
 
-459:ここは、グランプリモードだ\n戦いは長丁場になるぞ\n心して挑戦してくれ！
+459:Welcome to Grand Prix! The road will be\nlong and hard, so be prepared! 
 
-460:ここは、アーケードモードだ\n練習するも良し\n極限まで走り込むも良し、だ！
+460:Welcome to Arcade, where you can practice your skills or push yourself harder!
 
-461:ここは、プライベートエリアだ\nレースは絶え間なく続いていく\n時にはリフレッシュも必要だ！
+461:Welcome to Private Area, where you can take a break from the endless racing! 
 
-462:レースに疲れたら、\nいつでも戻って来てくれたまえ
+462:If you ever need a break from the action, feel free to stop by here again.
 
-463:ようこそ！オーディオルームへ\n私の、お気に入りのＢＧＭを\n存分に堪能していってくれたまえ！
+463:Welcome to the Audio Room! Here you can listen to your favorite music from the game!
 
-464:では、また会おう！
+464:See you soon!
 
-465:ようこそ！リプレイシアターへ\n今回は、どんな走りを\n披露してくれるのかな？
+465:Welcome to the Replay Theater!\nHave any new driving tricks to show off?
 
-466:君の素晴らしい走りに、\n期待している！
+466:I'm looking forward to seeing\nyour ace driving!
 
-467:カードギャラリーへ、ようこそ！
+467:This is the Card Gallery.
 
-468:では、また会おう！
+468:See you soon!
 
-469:まだまだ足りないようだな\n頑張ってくれ！
+469:You currently own only a few cards.\nBetter start collecting!
 
-470:だいぶ、集まってきたようだな！
+470:Looks like you've gathered quite a few!
 
-471:コンプリートは近いぞ！
+471:Your collection is looking almost complete!
 
-472:よし、コンプリートだ！\nやったな！
+472:Wow! You've managed to collect all of the cards! Great job!
 
-473:ようこそ！ガレージへ
+473:Welcome to the Garage!
 
-474:君が閲覧できるマシンは\n今のところ、これだけだ
+474:These are the only machines you can currently view.
 
-475:カープラザで\n新しいマシンを購入すれば、\nここで閲覧できるようになるぞ！
+475:If you buy a new machine at the Car Plaza, you will be able to view it here!
 
-476:マシンの管理は、私に任せておけ\nレースは君に任せる！
+476:Just leave the garage to me,\nand I'll leave the racing to you!
 
-477:まだまだマシンは手に入るぞ\n頑張ってＣＹポイントをためて、\nどんどんゲットしよう！
+477:There's still quite a few more machines\nto collect, try saving up your CY Points\nto get more!
 
-478:マシンは順調に増えているようだな\nこの調子で頑張っていこう！
+478:Looks like you've got a few more machines in the garage! Keep up the great work!
 
-479:もう少しで、\n全部のマシンが集まる\nここからがタイヘンだぞ、頑張れ！
+479:You're almost there, but it's only going to get harder from here, so don't give up! 
 
-480:全てのマシンがそろった！\nこれで、心おきなくマシンを\n閲覧できるぞ！
+480:Wow, I can't believe it,\nyou've collected all of the machines!
 
-481:サイバーフォーミュラ！
+481:Cyber Formula!
 
-482:サイバーフォーミュラ・グランプリへ\nようこそ！
+482:Welcome to the Cyber Formula Grand Prix!
 
-483:よぅ〜し、\nやるぞぉ〜！！
+483:Right!\nLet's do this!
 
-484:いくわよ〜！！
+484:Here we go!
 
-485:そうそう、いっけぇ〜！！
+485:C'mon, you can do it!
 
-486:よぅ〜し、\nやるぞぉ〜！！
+486:Let's win this!
 
-487:いくわよ〜！！
+487:I'm ready!
 
-488:そうそう、いっけぇ〜！！
+488:C'mon, you can do it!
 
-489:ゲームモードを選んでね！
+489:Choose a game mode!
 
-490:ここは、グランプリモードよ
+490:This is Grand Prix mode.
 
-491:長〜い戦いになるわ\nがんばって挑戦してね！
+491:It will be a long road ahead,\nso be prepared!
 
-492:ここは、アーケードモードよ
+492:This is Arcade mode.
 
-493:いろんなレースがあって\n目移りしちゃうけど
+493:Here you can practice you skills
 
-494:まずは、マシンの操作に\nなれなきゃね！
+494:with a whole bunch of races to choose from!
 
-495:ここは、プライベートエリアよ
+495:This is the Private Area.
 
-496:あなたが今まで戦ってきた\n成績を見れたり
+496:Here, you can take a look at\nmachines you've unlocked,
 
-497:ショッピングだって\nできちゃうんだから！
+497:and check out the shop!
 
-498:レースに疲れたら、\nいつでも戻ってきてね\n待ってるわ！
+498:If you ever need a break from the action, feel free to stop by here again.
 
 499:ようこそ！オーディオルームへ
 
@@ -1040,17 +1040,17 @@
 
 520:サイバーフォーミュラ・グランプリへ\nようこそ！
 
-521:ＬＯＡＤ ＧＡＭＥ選択時ボイス１
+521:dummy
 
-522:ＬＯＡＤ ＧＡＭＥ選択時ボイス２
+522:dummy
 
-523:ＬＯＡＤ ＧＡＭＥ選択時ボイス３
+523:dummy
 
-524:ＶＥＲＳＵＳ選択時ボイス１
+524:dummy
 
-525:ＶＥＲＳＵＳ選択時ボイス２
+525:dummy
 
-526:ＶＥＲＳＵＳ選択時ボイス３
+526:dummy
 
 527:ゲームモードを選んでね！
 
@@ -1112,89 +1112,89 @@
 
 556:うわぁ〜、\nとうとう全部あつめちゃったのね！\nこれで、めいっぱいマシンを閲覧できるわよ！
 
-557:サイバーフォーミュラ！
+557:Cyber Formula!
 
-558:サイバーフォーミュラ・グランプリへ\nようこそ！
+558:Welcome to the Cyber Formula Grand Prix!
 
-559:行きましょう、\nあなたの夢を叶える為に！
+559:Let's go make your dreams come true!
 
-560:頑張って下さい\n期待しています
+560:I believe in you!
 
-561:大丈夫、あなたならやれます
+561:Don't worry, you can win!
 
-562:勝負は時の運です！
+562:It's all in the timing!
 
-563:頑張って下さい\n期待しています
+563:Do your best, I'm counting on you!
 
-564:大丈夫、あなたならやれます
+564:Don't sweat it, you can win!
 
-565:ゲームモードを選んで下さい
+565:Choose a game mode
 
-566:ここは、グランプリモードです\n長いレースになることでしょう\n心して挑戦して下さい！
+566:This is Grand Prix mode. It will be a long road ahead,\nso be prepared!
 
-567:ここは、アーケードモードです\n練習するも良し\n極限まで走り込むも良し、です！
+567:This is Arcade mode. Practice your skills here or push yourself to the limit!
 
-568:ここは、プライベートエリアです\nあなたが今まで戦ってきた成績を見られたり、\nマシンなどを購入したりすることができます
+568:This is the Private Area. You can view race results and buy machines.
 
-569:レースに疲れたら、\nいつでも戻って来て下さい、\n待っています
+569:come back soon text
 
 570:ようこそ！オーディオルームへ\n私のお気に入りのＢＧＭを\n存分に堪能していって下さいね！
 
-571:それじゃあ、また会いましょう！
+571:See you again soon!
 
-572:ようこそ！リプレイシアターへ\n今回は、どんな走りを\n披露してもらえるのでしょう？
+572:Welcome to the Replay Theater!\nHave any new driving tricks to show off?
 
-573:あなたの素晴らしい走りに\n期待しています！
+573:I'm looking forward to seeing\nyour ace driving!
 
-574:カードギャラリーへ、ようこそ！
+574:This is the Card Gallery.
 
-575:それじゃあ、\nまた会いましょう！
+575:See you again soon!
 
-576:まだまだ足りないようですね\n頑張って下さい！
+576:You currently own only a few cards.\nBetter start collecting!
 
-577:だいぶ集まってきたようですね
+577::Looks like you've gathered quite a few!
 
-578:もう少しでコンプリートです
+578:Your collection is looking almost complete!
 
-579:コンプリートです！！\nやりましたね！
+579:Wow! You've managed to collect all of the cards! Great job!
 
-580:ようこそ！ガレージへ
+580:Welcome to the Garage!
 
-581:あなたが閲覧できるマシンは\n今のところ・・・\n少ないようです
+581:These are the only machines you can currently view.
 
-582:カープラザで\n新しいマシンを購入すれば、\nここで閲覧できるようになります
+582:If you buy a new machine at the Car Plaza, you will be able to view it here!
 
-583:マシンの管理は私に任せて下さい\nレースはあなたに任せます！
+583:Just leave the machine to me,\nand I'll leave the racing to you!
 
-584:まだまだマシンは手に入ります\n頑張ってＣＹポイントを貯めて、\nどんどんゲットしましょう！
+584:There's still quite a few more machines\nto collect, try saving up your CY Points\nto get more!
 
-585:マシンは順調に増えているようですね\nこの調子で頑張りましょう！
+585:Looks like you've got a few more machines in the garage! Keep up the great work!
 
-586:もう少しで全部のマシンが集まります\nここからが大変です、\n頑張って！
+586:You're almost there, but it's only going to get harder from here, so don't give up!
 
-587:全てのマシンがそろいました！\nこれで、心おきなくマシンを\n閲覧できますね！
+587:Wow, I can't believe it,\nyou've collected all of the machines!
 
-588:ドライバーチェック終了、\n私は車体ナンバー、ＡＫＦ−０/１Ｂ\nＯＳコードネーム「ネメシス」です
+588:Driver check complete. My machine code is AKF-0/1B,\nOS Codename NEMESIS.
 
-589:私のパートナーは夢を追い続ける人です\nどんな時でも夢を諦めない人です
+589:My partner is someone who always continues to pursue their dreams, no matter the cost.
 
-590:勝ち負けは問題ではありません\n私はあなたのパートナーなのだから
+590:It doesn't matter if you win or lose, because I am here with you.
 
-591:よろしくお願いします
+591:I look forward to working with you.
 
-592:行きましょう、\nあなたの夢を叶える為に
+592:It's up to you now to
 
-593:あなたの運にかけましょう
+593:make your dreams come true.
 
-594:こちらこそ\nあなたのお役に立てて良かった\nおめでとうございます！
+594:I am glad I could have been of help.\nCongratulations!
 
-595:残念です\n私はあなたに夢を実現してほしかった・・・
+595:I apologize that I could not help you realize your dream..
 
-596:私はサイバーシステムとして、\nそしてあなたのパートナーとしても\n失格です・・・
+596:I have failed as a Cyber System and your partner..
 
-597:終わり良ければ全て良し、です！
+597:As they say,\nall's well that ends well!
 
-598:いくらあなたと私でも、\n無い袖は振れないのです・・・
+598:It doesn't matter how good we are,\nyou can't drive a car without gas.
 
-599:いいえ、\nあなたの言うことに\n間違いはありません・・・が
+599:I suppose you're not wrong..
 

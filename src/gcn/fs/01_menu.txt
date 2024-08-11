@@ -28,7 +28,7 @@
 
 14:Change options and settings.
 
-15:Exit Grand Prix and return to the menu.\n%5Next time you will resume where you\nlast saved.%1
+15:Exit Grand Prix and return to\nthe menu.\n%5Next time you will resume where you\nlast saved.%1
 
 16:Proceed to final session.
 
@@ -110,7 +110,7 @@
 
 55:View saved replay data.
 
-56:View owned machines.\n%4You can also check operation advice.%1
+56:View owned machines.\n%4You can also review driving advice.%1
 
 57:Listen to BGM.
 

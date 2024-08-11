@@ -6,12 +6,56 @@ origin $000000; insert "../../input/Shinseiki GPX Cyber Formula [J].iso" // Incl
 
 macro Text(OFFSET, TEXT) {
   map 0, 0, 256 // Map Default ASCII Chars
-  map '\n', 0x0A // End of string 
+  map '\n', 0x0A // New line
+  map 'ƒÁ', 0x83C1 // Greek Gamma
+  map 'ƒË', 0x83CB // Greek Nu
 
   origin {OFFSET}
+  variable availableLength = 0;
+  while (read(origin() + availableLength) != 0x00) {
+    ds 1
+  }
 
+  if (read(origin()) == 0x00) {
+    fill 1
+  }
+  if (read(origin()) == 0x00) {
+    fill 1
+  }
+  if (read(origin()) == 0x00) {
+    fill 1
+  }
+  if (read(origin()) == 0x00) {
+    fill 1
+  }
+
+  availableLength = origin() - {OFFSET} - 1
+  
+  origin {OFFSET}
   db {TEXT} // ASCII Text To Print
-  db 0x00
+
+  variable newLength = origin() - {OFFSET}
+  if (newLength > availableLength) {
+    print {TEXT}
+    print " is too big by "
+    print (newLength - availableLength)
+  }
+
+  while (read(origin()) != 0x00) {
+    fill 1
+  } 
+}
+
+// Warning: use address first!!
+macro Text(TEXT) {
+  variable i = 40;
+  while (i > 0 && read(origin()) < 0x01) {
+    ds 1
+    i = i - 1;
+  }
+  
+  variable ori = origin()
+  Text(ori, {TEXT})
 }
 
 macro TextShiftJIS(OFFSET, TEXT) {
@@ -55,10 +99,11 @@ macro ReplaceAsset(ORIGIN, FILE, SIZE) {
 }
 
 //Region
-Text($3, "E")
+origin $3; db $45 //E
 origin $45B; db $01
 
 include "Banner.asm"
+include "Garage.asm"
 include "Menu.asm"
 include "System.asm"
 include "Txtd.asm"
