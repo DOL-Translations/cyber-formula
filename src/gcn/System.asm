@@ -1,4 +1,8 @@
+Text($001F4B34, "Return to game menu.")
+
 Text($001F4724, "Return to game menu.")
+
+//in tournament.asm
 
 Text($001F4C9C, "Continue data found.")
 Text("No continue data found.")
@@ -34,8 +38,9 @@ Text("Failed to format %s.")
 Text($001F6228, "Continue without")
 Text($001F627C, "Delete replay data")
 Text($001F629C, "Failed to delete replay data.")
-
-//todo
+Text("New Data")
+Text("Create New")
+Text("Corrupted Data")
 
 Text($001F634C, "No replay data has been saved to the Memory Card.")
 Text("Save data on the Memory Card in %s is corrupted.")
@@ -79,7 +84,19 @@ Text($001F6C28, "Select a course.")
 Text($001F6D0C, "Set the boost pressure.\nAdjust this value to change speed\nand recovery.")
 Text($001F6C28, "Set boost pressure.")
 
+Text($001F6D84, "Set boost pressure.")
+
 //Music, see other file
+
+Text($001F9198, "You can now listen to")
+Text("Duet Stars (Instrumental)")
+Text("in the Audio Room.")
+Text("Additional tracks are")
+Text("now available in the Shop!")
+Text("")
+Text("Select")
+Text("---%02d---")
+Text("in the Shop.")
 
 Text($001F9F2C, "Select a machine color.")
 Text($001F9FEC, "Select a machine.")
@@ -93,6 +110,9 @@ Text("The Memory Card was removed.")
 Text("There is no free space or not enough free files on the Memory Card.")
 Text("There is another object in the selected slot.")
 Text("The data on the Memory Card needs to be formatted.")
+
+Text($00252ADC, "Purchase this")
+Text("product?")
 
 Text($00265880, "Yes")
 Text("No")

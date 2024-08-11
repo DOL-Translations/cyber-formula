@@ -9,6 +9,7 @@ macro Text(OFFSET, TEXT) {
   map '\n', 0x0A // New line
   map $03BD, 0x83C1 // Greek Gamma
   map $03B3, 0x83CB // Greek Nu
+  map $2605, 0x819A // Star
 
   origin {OFFSET}
   variable availableLength = 0;
@@ -108,4 +109,6 @@ include "System.asm"
 include "Audio.asm"
 include "Garage.asm"
 include "Menu.asm"
+include "Shop.asm"
+include "Tournament.asm"
 include "Txtd.asm"
