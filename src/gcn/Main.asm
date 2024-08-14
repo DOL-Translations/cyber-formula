@@ -106,7 +106,7 @@ origin $45B; db $01
 include "Banner.asm"
 include "System.asm"
 
-include "Audio.asm"
+include "Collectable.asm"
 include "Garage.asm"
 include "Menu.asm"
 include "Shop.asm"
