@@ -21,7 +21,7 @@ Text("To Tournament Select.")
 
 Text($001F4724, "Return to main menu.")
 
-Text($001F4870, "%1Beginner Tournament (6 races)\n%5Difficulty: š%1")
+Text($001F4870, "%1\n%5Difficulty: š%1")
 Text("%1Intermediate Tournament (6 races)\n%5Difficulty: šš%1")
 Text("%1Intermediate Tournament (6 races)\n%5Difficulty: ššš%1")
 Text("%1Advanced Tournament (8 races)\n%5Difficulty: šššš%1")

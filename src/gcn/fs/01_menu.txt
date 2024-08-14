@@ -366,7 +366,7 @@
 
 183:MT (Manual Transmission)\nAll gear changes are done manually.
 
-184:AT (Automatic Transmission) A gearless transmission that provides super electromagnetic acceleration using a continuously variable transmission.
+184:AT (Automatic Transmission)\nGearless transmission that provides super\nelectromagnetic acceleration using\ncontinuously variable transmission.
 
 185:Course record updated!
 

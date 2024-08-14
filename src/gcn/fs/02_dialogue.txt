@@ -50,7 +50,7 @@
 
 25:Alright, then,\nhere I go!!
 
-26:I'll do my absolute best!\nLet's give it our best!!
+26:I'll do my absolute best!\nLet's give it our all!!
 
 27:Don't run away!\nThe battle's just getting started!!
 
@@ -62,21 +62,21 @@
 
 31:What's done is done.\nWe need to focus on the next race!
 
-32:オレは信じる\n今までオレがやってきた\nレースを！
+32:I believe in the races I've won!
 
-33:負けられない・・・\nこのレースは必ず取る！
+33:I can't afford to lose!\nI'll win this race for sure!
 
-34:マシンの良し悪しなんか関係ない！\nプロのドライバーのオレが走るんだ！！
+34:The quality of the machine doesn't matter!\nA professional racer like me will drive no\nmatter what the conditions!!
 
-35:お前なんか\nブッちぎりさ！
+35:I'll leave you in the dust!
 
-36:手加減はしない\nいいな！
+36:I won't hold back. Understand?
 
-37:上々の出来だ！\nやはり、レースをやるからには\n勝たなくちゃな！！
+37:A great performance!\nIf I race, I always have to win!!
 
-38:・・・ちっきしょう！\nオレは勝てないドライバーなんかじゃ\nないハズだ！！
+38:...Damn it!\nI shouldn't be a driver if I can't win!!
 
-39:何をやってるんだ・・・オレは！\n大層なことを言っておきながら\nこんな結果しか出せないなんて・・・！
+39:What am I even doing?!\nTo think my big words were so pointless\nin getting results!
 
 40:I'll drive my machine the best!\nI did design it after all!\nNo blind spots here!
 
@@ -116,31 +116,31 @@
 
 58:You're about to see why they\ncall me the child prodigy!
 
-59:This win's for you, Mom and Dad!
+59:This win's for you, Mother and Father!
 
-60:ふん、\nランドル家の人間を\nあなどるなよ！
+60:Hmph,\ndon't underestimate the Randoll family!
 
-61:見ていてくれましたか、父上、母上・・・！\nランドル家の者として、カールは\n恥じない結果を残すことができました！
+61:Did you watch, Father and Mother?\nAs a Randoll, Karl has achieved a result\nworthy of pride.
 
-62:くそっ、\nまぐれでもあんな主役は今回で\n願い下げにしてもらいたいものだ・・・
+62:Damn it,\nI hope that lucky break wasn't just\na fluke...
 
-63:そんなことあるわけがない\n・・・不愉快だ、帰るぞ！
+63:That's impossible..\nIt can't be!\nI'm going home!
 
-64:オレも気づけばベテランか・・・\nフフッ、それじゃベテランならではの\n走りってヤツを見せてやるさ！
+64:I guess I'm a veteran now..\nWell then, I guess I'll show you what\nveteran driving's all about!
 
 65:My blood boils at the sound of every race.\nI guess I am a racer, through and through.
 
 66:I'll win this race if it kills me..\nLet's go!
 
-67:ふんっ、\nただ飛ばすだけでは\nレースには勝てん！
+67:Hmph,\ngas alone won't win the race!
 
-68:ふっふ、若造が・・・\n言っておくが、\nお守りなんぞはせんからな！
+68:Hey, kids...\nJust to be clear, I won't be giving you\nany easy breaks!
 
-69:ハッハッハッハッ、\n感無量だな！\nまだまだオレでもやれるってことだ
+69:Haha,\nI'm overwhelmed with emotion!\nGuess I still got it!
 
-70:ふぅ・・・\nここまでやれれば良しといった所か\nだが、次はこうはいかんぞ！
+70:Phew..\nI guess I should be happy I made it this far.\nStill, next time will be different!
 
-71:くそぉ・・・！\nこのオレも、\nすでにロートルってことなのか
+71:Damn it!\nIs it possible I'm already past my prime?
 
 72:えっ、おれスか？
 
@@ -798,7 +798,7 @@
 
 399:Ugh, no matter when it is,\nlosing is never bearable.
 
-400:Let's go this, Hayato!\nMake our dreams come true!
+400:Let's do this, Hayato!\nMake our dreams come true!
 
 401:Do your best,\nI'm counting on you!
 
