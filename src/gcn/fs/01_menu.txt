@@ -328,7 +328,7 @@
 
 164:Proceed to course selection.
 
-165:Load this data.\n%5The types of machines that can be used and\nthe courses that can be selected will\nchange depending on the save data content.%1
+165:Load this data.\n%5Usable machines and selectable courses\nwill depend on the save data content.%1
 
 166:Return to title screen.
 
@@ -366,7 +366,7 @@
 
 183:MT (Manual Transmission)\nAll gear changes are done manually.
 
-184:AT (Automatic Transmission)\nGearless transmission that provides super\nelectromagnetic acceleration using\ncontinuously variable transmission.
+184:AT (Automatic Transmission)\nGearless, electromagnetic acceleration\nusing continuously variable transmission.
 
 185:Course record updated!
 
