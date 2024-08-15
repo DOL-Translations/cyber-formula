@@ -1,4 +1,4 @@
-00:I race alone, and this\ncheckered flag is proof of it!
+00:I race by my skill alone, and this\ncheckered flag is proof of it!
 
 01:Let's go, Asurada!\nWe'll win this race no matter what!
 
@@ -6,7 +6,7 @@
 
 03:Today I'll show you what a real racer looks like!
 
-04:I'm not going to arrive on the grid\nintending to lose!
+04:I don't arrive on the grid\nintending to lose!
 
 05:I didn't think I could win,\nbut I wanted to win!
 
@@ -14,37 +14,37 @@
 
 07:I haven't fully used this machine's\nfull potential!\nI need to try harder!
 
-08:I'll do my best, I'm not going to lose to you guys!
+08:I'll do my best,\nI'm not going to lose to you guys!
 
-09:準備ＯＫです、\nいつでもいけます！
+09:I'm ready to go,\njust say when!
 
-10:あの・・・\n僕も、ハヤト先輩に追いつけるよう\n頑張ります！
+10:Um..\nI'll do my best to catch up to you,\nMr. Kazami!
 
-11:みんなリタイアしちゃえばいいんだ・・・\nリタイア、リタイア・・・！\nあ、今の・・・聞こえてませんよね？
+11:I wish everyone would just drop out\nand retire!\nOh, you didn't hear that, did you?
 
-12:あ、今日はよろしくお願いします！\n・・・ば〜か、\n今のうちにいい気になってろ！
+12:Good luck in today's race!\n..Idiot. Enjoy the only encouragement\nyou'll get today.
 
-13:やった・・・！\nとうとうやりましたよ、\n先輩！！
+13:I did it!\nI finally did it, boss!!
 
-14:もう少しのところで・・・\n次のレースの時に\n仕返ししてやる！
+14:So close...\nI'll get my revenge in the next race!
 
-15:おのれぇ〜\nあいつが邪魔をしなければ！\n・・・彫ってやる、彫ってやるぞ！
+15:Damn it!\nIf only they hadn't gotten in my way,\nI would have won!
 
-16:準備はできてます・・・\nあとは・・・\n勝つだけです
+16:I'm all set and raring to go...\nAll that's left is to grab that win!
 
-17:全てを捨てなければ、\nただ１つの栄光も\nつかめない奴もいるのさ！
+17:If you don't throw everything you\ncherish away, you won't grab a single\nspeck of glory!
 
-18:レースは勝たなければ意味がない・・・\n敗者には、\n何も残らないんだ！
+18:Winning is everything in a race..\nIf you lose, life's got nothing\nleft for ya!
 
-19:僕は絶対につかみ取ってみせる\n未来と栄光を・・・\nあんた達を蹴散らしてな！
+19:I'm taking my future and glory into my\nown hands, and I'm not afraid to shove\nanyone who gets in my way!
 
-20:構わないでくれ\n危険があるのは承知の上さ・・・
+20:Don't worry about me,\nI've got my eyes on the prize and I know the risks..
 
-21:これでいい・・・\n選ばれたのは僕だ、\n選んだのも僕だ！
+21:Everything's falling into place.\nFate picked me, and I'll decide my own\npath from here.
 
-22:はぁ、はぁ、はぁ・・・\nす、すいません！\n次こそは、ちゃんとやりますから！
+22:Huff, huff, huff...\nI-I'm sorry!\nI'll fix things next time, I promise!
 
-23:全て犠牲にしても、\nまだ足りないというのか！？\nこんなのは・・・いやだぁ〜！！
+23:Even after losing it all..\nIs it still not enough?
 
 24:You can't afford to lose?\nWell me neither!!
 
@@ -78,53 +78,53 @@
 
 39:What am I even doing?!\nTo think my big words were so pointless\nin getting results!
 
-40:I'll drive my machine the best!\nI did design it after all!\nNo blind spots here!
+40:I'll drive my machine to perfection!\nAfter all, I designed it myself.\nNo blind spots here, that's for sure!
 
-41:I will prove my designs superior.\n...Bring it on!
+41:I'll prove the superiority of my designs.\n...Let's see what you've got!
 
-42:The winner?\nDon't even bother checking.\nIt's me, of course!
+42:The winner?\nDon't waste your time checking.\nOf course it's me!
 
-43:...I best be leaving now, thank you.
+43:..I should be taking my leave now.\nThank you.
 
-44:I won't lose!
+44:I won't accept defeat!
 
-45:Winning this race proves that I am\nthe best on the track and in the garage!
+45:Winning this race will prove that I am\nthe best, both on the track and in\nthe workshop!
 
-46:I never thought it would end this way..\nWhat a disgrace!\nI need to revise my designs right away!
+46:I never imagined it would end like this..\nWhat a disgrace!\nI need to revise my designs immediately!
 
-47:I knew this machine like the back of my\nhand, and yet this is still the result!\nHow pathetic!
+47:I know this machine inside out,\nand still, this is the result!\nHow utterly disappointing!
 
-48:A-woo!\nI can help you with that, little lady!
+48:A-woo!\nI can lend you a hand, little lady!\nJust holler if ya need somethin'!
 
-49:A-woo!\nLooks like you need a little help there!
+49:A-woo!\nLooks like you're in a bit of a bind!\nNeed a hand?
 
-50:Let's get this done quickly so I can have some time with this cutie over here!
+50:Let's wrap this up quick so I can spend\nsome quality with this cutie over here!
 
-51:Boss, you're on fire!\nJust don't push yourself too hard or you\nwon't make it to the finish.
+51:Boss, you're on fire!\nJust don't overdo it or you might not make\nit to the finish line.
 
-52:Whoa there!\nThanks for the heads-up!
+52:Whoa there!\nThanks for the tip, pardner!
 
-53:Got in a little rodeo over there!
+53:Had myself in a bit of a rodeo out there, huh!
 
-54:Heinel, if you can't even fit my Stallion\nwith the speed she needs, even\nI can't win!
+54:Heinel, if you can't get my Stallion up\nto speed, then this cowboy might have a\ntough time winning!
 
-55:Ah!?\nJust where are you going, my ladies!?
+55:Ah!?\nWhere are y'all headin' off to,\nmy lovely ladies!?
 
-56:I've reached the pinnacle of every sport!\nThere's no way I can lose, right?
+56:I've reached the pinnacle of every sport!\nThere's no way I can lose now, surely.
 
-57:Let's make this a great race!\nGo Issuxark!
+57:Let's make race a memorable one!\nGo Issuxark!
 
-58:You're about to see why they\ncall me the child prodigy!
+58:Prepare to witness why they call me a\nchild prodigy!
 
-59:This win's for you, Mother and Father!
+59:This victory is dedicated to you, Mother and Father!
 
-60:Hmph,\ndon't underestimate the Randoll family!
+60:Hmph,\nnever underestimate the Randoll family!
 
-61:Did you watch, Father and Mother?\nAs a Randoll, Karl has achieved a result\nworthy of pride.
+61:Did you witness it, Father and Mother?\nAs a Randoll, Karl has achieved a result\nthat befits our name.
 
-62:Damn it,\nI hope that lucky break wasn't just\na fluke...
+62:Damn it,\nI hope that fortunate break wasn't just\na fluke...
 
-63:That's impossible..\nIt can't be!\nI'm going home!
+63:This is inconceivable..\nIt can't end like this!\nI'm going home.
 
 64:I guess I'm a veteran now..\nWell then, I guess I'll show you what\nveteran driving's all about!
 
@@ -132,7 +132,7 @@
 
 66:I'll win this race if it kills me..\nLet's go!
 
-67:Hmph,\ngas alone won't win the race!
+67:Hmph,\njust having speed alone won't win\nthe race!
 
 68:Hey, kids...\nJust to be clear, I won't be giving you\nany easy breaks!
 
@@ -142,117 +142,117 @@
 
 71:Damn it!\nIs it possible I'm already past my prime?
 
-72:えっ、おれスか？
+72:Huh, me?
 
-73:だいじょぶっスよ\n負けやしませんって！
+73:I'm good,\nI'm not losing to anyone!
 
-74:よ〜し、やるぜ！\n出るっス！！
+74:Alright, let's get this going!\nI'm ready to roll!!
 
-75:負けねぇぞ！\n来いよ、\n相手になってやるぜ！！
+75:I won't lose!\nGet ready,\nI'll take you on!!
 
-76:へっ、\n思い知らせてやるぜ\nかかってきな！！
+76:Heh,\nI'll show you a thing or two!\nBring it on!!
 
-77:どぅっスか？\nこれがおれの実力ッスよ！\nおれが本気になりゃぁ、こんなもんスよ
+77:How's that?\nYou're just getting a taste of what\nI can do when I focus!
 
-78:冗談じゃねぇ・・・！\n抜かれるために走ってるんじゃない！！
+78:This isn't...a joke!\nI'm not racing just to get passed!!
 
-79:ウソだろ？\nおい・・・
+79:Huh?\nNo way...
 
-80:ここまで頑張ってやってきたんだ・・・\n必ず勝ってやる！
+80:I've worked so hard...\nI'm going to make every effort count!
 
-81:サーキットで女扱いは\nやめてもらいたいね\nいくわよー！！
+81:Please stop treating me like a little girl\non the circuit.\nHere I go!!
 
-82:女だからってナメんじゃないよ！\nいくよっ！！
+82:Don't underestimate my skills just because\nI'm a woman!\nHere I go!!
 
-83:ふっふっふっふ・・・\n悪かったね、\n女がお相手で
+83:Hehe...\nApologies if the girl's\nyour opponent!
 
-84:いい度胸だ！\n女だからってナメんじゃないよ！
+84:You've got courage!\nDon't think you can take me lightly just\nbecause I'm a lady!
 
-85:やったわ〜！！\n女のあたしだって頑張れば\nここまで来れるんだから！
+85:I did it!!\nBeing a woman doesn't hold me back,\nhard work leads to success!
 
-86:ハッ！\nトップでチェッカーを受けるまで\n何度だって挑戦してやるさ！
+86:Ha!\nI'll keep challenging until I cross that\ncheckered flag first!
 
-87:ちくしょう！・・・冗談じゃない！！\nあたしは、こんなことじゃ\n負けないんだから！
+87:Damn...this isn't a game!!\nI won't be defeated by anyone!
 
-88:了解しました
+88:Righto.
 
-89:僕に任せてください
+89:Leave it to me, mate.
 
-90:いきます！
+90:Here I go!
 
-91:今日はよろしく！\nあなたの走りを\n勉強させてもらいますよ
+91:Looking forward to today!\nI'll be watching your driving closely.
 
-92:おっと、\nあなたが相手ですか\n今日はいいレースにしましょうね
+92:Oh,\nyou're my opponent?\nLet's have a ripper race today.
 
-93:感動です！\n優勝できるなんて！！
+93:Crikey, I did it!\nCan't believe I've won!
 
-94:ぐっ・・・！\n次は絶対優勝してみせます
+94:Guh..!\nNext time, I'm definitely taking the win.
 
-95:なんてことだ！\n・・・ハァ、\n反省会を開かなければなりませんね
+95:What the..!\nSigh..\nLooks like we need a good chat with the crew.
 
 96:Alright, leave it to me!
 
-97:Okay, let's do this!
+97:Let's get this done!
 
 98:Go, Go, GO!!
 
-99:Alright!
+99:All set!
 
-100:Sorry, but this race is mine to win!
+100:Sorry, but this race is mine!
 
-101:Hell yeah!\nHow was that?
+101:Ja!\nHow was that?
 
-102:Grr..\nMy skills just didn't cut it.
+102:Grr..\nDidn't quite make the cut.
 
 103:Ahh- no good!
 
-104:Alright, here I go!
+104:Alright, I'm going in!
 
-105:Standby, we're moving out!
+105:On standby, we're moving out!
 
-106:Heh heh.. alright!
+106:Heh heh.. all set!
 
 107:Humph!\nYou're wide open!
 
-108:A rookie like you is not\neven worth my time!
+108:A rookie like you isn't\neven worth my time!
 
-109:Alright,\nheh heh\n..I nailed it!!
+109:Da,\nnailed it!\n..Heh heh...
 
-110:Tch!\nDon't think you an get away from me!
+110:Tch!\nDon't think you can escape me!
 
-111:Grr..no way?!\nWhat was my mistake..
+111:Grr..no way?!\nWhere did I slip up..
 
-112:This victory's mine!\nLet's go!
+112:This victory's mine, mate!\nLet's go!
 
-113:Time to win!
+113:Time to claim the win!
 
-114:I'm not gonna lose!
+114:I'm not gonna lose, not today!
 
 115:Hmph!\nNo matter how hard you try,\nyou won't beat me!
 
-116:You better give it your best if you\nhope to win!
+116:You better give it your all if you\nhope to win!
 
-117:Hell yeah,\nI got the win!
+117:Hell yeah,\nI've got the win!
 
-118:Is this..\nall I'm capable of?
+118:Is this..\ntruely my best?
 
-119:I messed that one up..\nTch!\nThis sucks!
+119:Botched that one..\nTch!\nThis is rubbish!
 
-120:I'll give it my all!
+120:I'll give it my best shot!
 
-121:Alright,\nI'm heading out!
+121:Alright,\nheading out now!
 
-122:Are you ready?\nWe're going out!
+122:Are you set?\nWe're going in!
 
-123:I'm not holding anything back!
+123:Not holding anything back this time!
 
-124:Heh heh, It's on!
+124:Heh heh, let's do this!
 
-125:I really did it!!\nAll of that training really paid off!
+125:I did it!!\nAll that hard work paid off!
 
-126:I couldn't quite reach the trophy..\nSo close..\n
+126:So close to the trophy..\nAlmost had it..\n
 
-127:Sigh..\nMaybe I didn't try hard enough?
+127:Sigh..\nDid I not push hard enough?
 
 128:I have to win this race by myself!\nLet's hit the track!
 
@@ -272,179 +272,179 @@
 
 136:Alright,\nI'm heading out!
 
-137:Let's do this!\nAlright, time to hit the asphalt!
+137:Let's do this!\nTime to hit the asphalt!
 
-138:Let's take it easy for now.
+138:Let's take it easy, for now.
 
-139:Hola, amigo!\nWant to challenge me?\n..Oh, it's on!!
+139:Oi, amigo!\nYou wanna challenge me?\n..It's on!!
 
-140:Oh, you'r serious?\nWoohoo!\nLet's make this a fun race!
+140:Oh, you're serious?\nHaha,\nlet's make this a good race!
 
-141:Woohoo!\nLet's have a celebration\nfor this victory!
+141:Yeah!\nTime to celebrate this victory!
 
-142:Ah,\nlet's go ths again, no?
+142:Ah,\nlet's do it again, no?
 
-143:Something's not right..\nOh well, no matter!
+143:Something's not right..\nBut it's cool!
 
-144:I'll prove my true strength!!
+144:I'll show you what true strength is!!
 
-145:I'm heading out!
+145:I'm going out!
 
 146:Here I go!\nOoooooh!
 
-147:Think you can beat me?\nHah! Not in a 100 million years!!
+147:You think you can beat me?\nHah! Not in a hundred years!!
 
-148:Is that you?\nThe newest racer who came to be\ndefeated by me?!
+148:So, you're the new racer?\nCome to taste defeat in my hands?!
 
-149:Alright!\I've finally proved my true strength!!
+149:Yes!\I've finally proved my true strength!!
 
-150:This wasn't supposed to happen..\nDid all my small mistakes add up?
+150:This wasn't how it was supposed to go..\nDid all those little mistakes catch\nup to me?
 
-151:Dammit!!\n...My ability shoudn't be this weak!
+151:No way!!\n...I'm better than this!
 
-152:よし、いくとするか
+152:Alright, let's get this show on the road!
 
-153:出るぞ！
+153:I'm heading out now!
 
-154:いきます！！
+154:Here I go!!
 
-155:キミがターゲットだ\n本気でいかせてもらうよ！
+155:If you're my target,\nI'm giving it everything I've got!
 
-156:キミがターゲットか\nお互いフェアな精神で戦おう！
+156:So you're the target?\nLet's have a fair fight!
 
-157:ふぅ、やれたみたいだな！\n努力すれば必ず結果はついてくるものだ
+157:Phew, looks like I pulled it off!\nHard work always pays off.
 
-158:今一歩およばずといったところか・・・\nマシンの性能を最大限に引き出せれば！
+158:Just fell short..\nIf only I'd pushed the machine's\nperformance further!
 
-159:少し慎重にいきすぎたようだ\n・・・次に期待しよう！
+159:I might have been too cautious.\nLet's give it our all next time!
 
-160:ＮＯ.１は私のものです\n・・・いくぞ！！
+160:First place is mine..\nLet's go!!
 
-161:私に任せてもらいましょう
+161:Leave it to me.
 
-162:いかせてもらいますよ！
+162:I'm going for it!
 
-163:誰も私を止められない！
+163:No one can stop me!
 
-164:私の前は走らせません！
+164:I won't let anyone pass!
 
-165:きたっ！\nきましたよ！！
+165:Here I come!!
 
-166:ぬうっ！\n・・・油断しました
+166:Ugh!\n..I let my guard down.
 
-167:まさか！？\n・・・っぐう！
+167:No way?!\n..Ugh!
 
-168:オレの出番か！
+168:Is it my turn?
 
-169:出る！！
+169:I'm going in!!
 
-170:よぅし、いける！！
+170:Alright, I can do this!!
 
-171:おまえが相手か！\n正々堂々と勝負しようじゃねぇか！！
+171:So, you're my opponent!\nLet's have a fair fight!!
 
-172:相手にとって不足はない、\n覚悟しろ！！
+172:You're a worthy opponent.\nPrepare youself!!
 
-173:やはり勝利の味は格別！\nやったぞおぉぉぉ〜！！
+173:The taste of victory is indeed\na special flavor!\nI really did it!!
 
-174:ぬぅぅぐぅ・・・\n気合だ！\n気合が足りなかったのだ！！
+174:Ugh..\nI didn't have enough spirit!!
 
-175:ぐぅぅ、不覚！\n・・・気合が空回りか、\n少しアタマを冷やさねばならんな
+175:Ugh, how careless!\nWas my spirit misguided?
 
-176:了解した、私に任せてもらおう\n・・・始動する！
+176:Understood, leave it to me.\nLet's get this show on the road!
 
-177:それでは、いくぞ！
+177:Alright, let's go!
 
-178:いくとしようか・・・
+178:Shall we get cracking?
 
-179:ほほぅ、\n・・・やるというのか？
+179:Ho ho..\nSo you're actually giving it a go?
 
-180:なかなかの腕前だな
+180:You've got some skills, mate!
 
-181:いい出来だ！\n私らしい走りといえよう
+181:Well done!\nThis is what I call driving Aussie style!
 
-182:ぬぅぅ！\n・・・私としたことが
+182:Ugh!\nHow did I end up losing!
 
-183:何ということだ！\n・・・私としたことが
+183:What?!\nI thought I had this in the bag!
 
-184:そろそろいくか・・・
+184:It's about time we get going..\nLet's hit the track!
 
-185:了解、いくぞ！！
+185:Roger that, let's roll!!
 
-186:発進する！！
+186:Ready for lift-off!!
 
-187:このプレッシャー・・・\nお前、タダモノじゃないな！？
+187:This pressure..\nYou're no ordinary opponent, are you?!
 
-188:フッ、その程度か！？\nせいぜい気張るんだな
+188:Hmph, is that all you've got?!\nBetter not be holding anything back.
 
-189:ふっふっふっ・・・\n表彰台のトップに立つ、\nこれがオレの仕事だ
+189:Heh heh heh..\nStanding on op of the podium:\nIt's what I do best.
 
-190:くっそぉ！\n・・・もっと読みが当たっていれば\n出し抜かれずにすんだのに
+190:Damn it!\nIf only I had been more focused, I wouldn't have been outsmarted!
 
-191:なんだと！\nくそっ・・・！\nダメだ、もっと精神を強化しなければ！
+191:What!\n..Damn it!\nI need to sharpen my mind!
 
-192:今こそオレの出番だぜ！！
+192:Now it's my time to shine!!
 
-193:エンジン・スタートォ！！
+193:Start the engine!!
 
-194:気合充填完了！\nいっくぜぇ〜！！
+194:My spirit's high,\nlet's hit the road!
 
-195:よぉ！あんたか\nひとつお手柔らかに頼むぜ！
+195:Yo!\nIt's you..\nGo easy on me, okay?
 
-196:おっ！？あんたか\nどうやら気の抜けないレースに\nなりそうだな！
+196:Oh?! It's you.\nLooks like we can't have our guards down\nthis time!
 
-197:よっしゃぁ〜！！\nこの瞬間のためだけに、\nオレは生きている！
+197:Hell yeah!!\nI live for moments like this!
 
-198:くっそぉ〜、\nやられたぜ！！\n次は絶対勝ってみせる！
+198:Damn it..\nI got beaten, but I'll definitely win next time!!
 
-199:まぁこんなこともあるさ\n次、がんばろう！
+199:Well, things happen,\nlet's put in the effort for next race!
 
-200:クズどもに目にモノ見せてやるよ！\n・・・とっとと出しやがれ！！
+200:I'll show these losers what I'm made of!\nGet me out there quickly!!
 
-201:オレちゃんに任せな！
+201:Leave it to me!
 
-202:モタモタするな！\n早く出せぇ！！
+202:Stop dawdling!\nGet me out there quickly!!
 
-203:ハァ〜、\nワクワクしてきたぜぇ\nワクワクワクワクワクワクゥゥゥ〜！！
+203:Ahhh,\nI'm getting so excited, excited, excited!!
 
-204:ハァ〜、\nドキドキしてきたぜぇ\nドキドキドキドキドキドキィィィ〜！！
+204:Ahhh,\nmy heart's pounding, pounding, pounding!!
 
-205:ＭＡＸ！\n頂点！\n昇りつめたぜぇ〜！！
+205:I've reached the true peak of racing!!
 
-206:誰かオレの前にいるぅ！\nオソロシイィ〜！！\nブルブルブルブルブル・・・
+206:Someone just passed me!\nI'm shaking, shaking, shaking!
 
-207:ムキィィ〜！\nイライラするぜぇ〜、\n・・・地獄におちろぉ〜！！
+207:Grr!\nI can't take this anymore,\ngo to hell!!
 
-208:わかったわ！\nいくわよ〜
+208:Got it!\nHere I go〜
 
-209:了解！\nがんばるわ
+209:Understood!\nI'll do my best!
 
-210:準備できてるわ、\nいつでもいいわよ！
+210:I'm ready to go anytime!
 
-211:私は、菅生あすか\nよろしくね！
+211:I'm Asuka Sugo,\nnice to meet you!
 
-212:いくわよ！
+212:Let's go!
 
-213:フフフッ\n優勝おめでとう！\nいいレースだったわね
+213:Hehe, I really won!\nThat was a great race.
 
-214:惜しかったわね\n今回はしょうがないわ・・・
+214:That was close,\nbut couldn't be helped this time...
 
-215:気にすることはないわ\n・・・気を取り直して、\n次にかけましょ！
+215:Don't worry about it,\nlet's pull ourselves together,\nand work harder next time!
 
-216:期待してもらおう・・・
+216:I'll let you look forward to it..
 
-217:甘んじて受けよう・・・\n出るぞ！
+217:I accept this challenge..\nI'm heading out!
 
-218:できるのか？\n今の私に・・・！
+218:Can I do this?\nWith the way I am now?
 
-219:私の邪魔はさせんぞ！\n思い知るがいい！！
+219:I won't let you interfere!\nPrepare to be crushed!!
 
-220:思い知らせてくれる！\n覚悟しておけ！！
+220:I'll make you realize your mistake!\nGet ready!!
 
-221:フッ\n・・・こんなものかな？
+221:Heh,\nIs this all there is?
 
-222:ごうまんだったのだ\n・・・油断があった
+222:I was too arrogant..\nI let my guard down.
 
-223:バカな！\nこの私が負けただと・・・！？
+223:Impossible!\nDid I actually lose?!
 
 224:dummy
 
@@ -462,213 +462,213 @@
 
 231:dummy
 
-232:私のガーランドはすごいわよ〜\n他のマシンなんか\nスーイスイッ、って抜かしちゃうんだから！
+232:My Garland is simply marvelous.\nI effortlessly glide past other machines.
 
-233:まぁ〜、楽しそうですねぇ〜！\n・・・こんなこともあろうかと\nセッティング、しておきましたわ！
+233:Oh my, this looks fun!\nJust in case, I made a few... adjustments.
 
-234:私、車の運転で３０キロ以上\n出したことがないのですけれど・・・\n今回は、もうちょっと踏み込んでみますわ！
+234:I've never driven over 30 kilometers per\nhour before...\nBut today, I'll push a bit further.
 
-235:あらぁ〜、お元気？\n私、車を運転するのは久しぶりなものですから\nちゃんと走れるか、心配で心配で・・・！
+235:Oh dear, it's been such a long time since\nI've driven.\nI do hope I can manage well.
 
-236:あら？あなたは・・・\nえ？あなたもレースに？まぁ〜・・・！\n今日はよろしくお願いしますね！
+236:Ah, you're racing today as well?\nHow delightful!\nLet's have a splendid race.
 
-237:え？私が優勝なんですの？\nあらあら、いいのかしら\n私なんかが優勝してしまって・・・！
+237:What? I've won?\nGoodness, I never imagined...\nIs it alright for me to claim victory?
 
-238:１位の方は素晴らしい走りでしたわね！\n優勝ではありませんでしたが、\nうれしいですわ！
+238:The first-place driver was\nsimply splendid!\nThough I didn't win, I'm quite pleased.
 
-239:あぁ〜！ひどいわぁ〜！！\n私のガーランドでは\nダメだというの・・・？
+239:Oh no, how dreadful!\nCould it be that my Garland isn't up\nto the task?
 
-240:プロドライバーの\n厳しさを教えてやる・・・
+240:I'll show you the harsh realities of being\na pro driver...
 
-241:出るぞ！
+241:I'm heading out!
 
-242:私もドライバーの端くれだしな・・・
+242:Even I have a bit of driver in me...
 
-243:お前は本当の勝負が分かっていない！\n・・・アッハッハッハ、冗談だよ！
+243:You don’t really understand what\na true race is!\n...Ahahaha, just kidding!
 
-244:ハッハッハ、\nそうとんがるな！
+244:Hahaha, don’t get so worked up!
 
-245:アッハッハッハ、\nギブアンドテイクが基本だからな！
+245:Hahaha, give and take is the basic rule!
 
-246:敗北していい訳がない\nガマンするのも戦いだ・・・！
+246:There’s no excuse for defeat.\nEndurance is also part of the fight...!
 
-247:ぬおっ！？\nなぜだ、なぜ負ける・・・！？
+247:What!? Why...\nWhy am I losing...!?
 
-248:ああ、これはどうも\nはじめまして、\n名雲京志郎です
+248:Ah, well, how do you do?\nNice to meet you, I am Kyoshiro Nagumo.
 
-249:フッハッハッハッ\n優勝はしますよ、\n必ずね！
+249:Heh heh heh..\nI will win, no doubt about it
 
-250:わかりました、いや構いませんよ\nあなた方の厚意のおかげで\nこうしてレースができるのですから
+250:Understood, I don't mind at all.\nAfter all, it's thanks to your generosity\nthat I can race like this.
 
-251:おや？\n妙なところでお会いしますね
+251:Oh?\nWe meet in a rather unusual place,\ndon't we?
 
-252:フッ・・・\n来るなら来たまえ！
+252:Hmph..\nIf you're going to face me,\nface me head on!
 
-253:いやはやスゴイですねぇ、\nまるで映画スターにでもなった気分だ！
+253:Oh my, this is stunning..\nI feel like a movie star!
 
-254:結果が全てですからね・・・\n頑張っただけでは\n何の意味もありません
+254:Results are everything, you see.\nJust trying without results means nothing.
 
-255:あなたの考えは\nまだ甘いということですよ\n・・・勝つためにはね！
+255:Your thinking is still too naive,\nif you're actually trying to win!
 
-256:見てて下さい、「アオイの女王様」\n必ずトロフィーを取ってみせますよ・・・\nあなたのお好きな一番大きいヤツをね！
+256:Watch me, "Queen Aoi,"\nI'll definitly bring home a trophy,\nthe biggest one you'd like!
 
-257:「アオイの若武者」なんて言われて\nもてはやされるのは卒業だ！
+257:I'm done being called\n"Aoi's Young Warrior!"
 
-258:見てろよ・・・\n必ず勝ってやる！！
+258:Watch me..\nI will win, no matter what!!
 
-259:お前なんか\nブッちぎりさ！！
+259:You will be left in the dust!!
 
-260:手加減はしない\nいいな！！
+260:I won't hold back, got it?!
 
-261:速いドライバーが勝つなんて\n当たり前のことだろう\nそれがオレだってこともな！
+261:It's common sense that the fastest\ndriver always wins.\And that driver is me!
 
-262:違う、こんな走りじゃない！\n風見が見せた走りは\nこんなもんじゃないんだ！！
+262:No, this isn't how it's done!\nKazami's driving was on a whole\ndifferent level!!
 
-263:怒ってくれていいですよ、オーナー・・・\nどうせ僕は、\n風見のようには走れませんからね！
+263:It's okay if you're mad, Boss..\nBecause I will never be able to drive like Kazami..
 
-264:オレはやりたいように\nやるさ・・・！
+264:I'll do things my own way!
 
-265:さてと、\n・・・いくか！
+265:Alright,\nlet's get going!
 
-266:ＺＥＲＯの先にあるのは・・・\nＺＥＲＯなんだよ！！
+266:What lies beyond Zero, is Zero itself!!
 
-267:テメェに通じるか通じねぇか・・・\nいくぜ！！
+267:Wether you understand or not..\nI'm going to go for it!!
 
-268:ホントは怖ぇよ、オレだって・・・\nだけど、\n化けモンはやっぱ退治しなくちゃな！
+268:Honestly, I'm scared too..\nBut, I've got to deal with my monsters!
 
-269:はぁ、はぁ・・・へっへへ\nつかんだぜ\nチェッカー・・・！！
+269:Huff, huff..\nHehe, I've got the checkered flag\nwithin reach!!
 
-270:どうしてだ・・・\nどうしてオレは、ヤツに・・・！
+270:Why..?\nWhy am I losing to that guy..!
 
-271:やり直しゃいいんだ\n・・・いくらでも！
+271:I just need to try again..\nNo matter how many times!
 
-272:父さんが作ったマシン・・・\n僕は信じる！\nいこうか、アスラーダ！
+272:I believe in the machine Dad built!\nLet's go Asurada!
 
-273:僕を誰だと思ってんの？\n世紀の天才レーサー、風見ハヤトだぜ！\n狙うはもちろん、優勝さ！
+273:Who do you think I am?\nThe century’s genius racer, Hayato Kazami!\nAs always, I’ll be aiming for the victory!
 
-274:ま〜かせとけって！\nいくぜ、アスラーダ！
+274:Leave it to me!\nLet's go, Asurada!
 
-275:当たって砕けろだ、\nいくぞ！！
+275:Go for broke, let's go!!
 
-276:ぜぇ〜ったい勝ってやる！\n見てろよ〜！
+276:I'm definitely going to win!\nJust watch!
 
-277:やったぁ！どんなモンだい！\nあすか〜、見ててくれた？\nんひひ・・・優勝だぜぇ！！
+277:I did it!\nAsuka, were you watching?\nHehe... I won!!
 
-278:まいったなぁ・・・\nあんな走りをされちゃ\nかなわないや
+278:I'm defeated.\nI can't match that kind of driving..
 
-279:僕は・・・\n僕は間違ってなんかいない！\nうっうっうっ・・・うわぁぁぁ〜！！
+279:I-I’m not wrong!\nUgh...Waaahhh!!
 
-280:何としてもこのレースは・・・！\nアスラーダ、いくぞ！！
+280:Asurada, we will win this race no\nmatter what!\nLet's go!!
 
-281:頼んだよ！\nアスラーダ！！
+281:I'm counting on you, Asurada!!
 
-282:父さんが作ったマシン・・・\n僕は信じる！\nいこうか、アスラーダ！
+282:I believe in the machine Dad built!\nLet's go Asurada!
 
-283:あ、相手が誰だろうと\n負けるもんか！
+283:It doesn't matter who I'm racing,\nI won't lose!
 
-284:みんな強そうだなぁ・・・\n僕も気合入れていかないと！
+284:Everyone else looks so confident..\nI need to believe in myself too!
 
-285:あすか〜、見ててくれた？\nへへへ・・・優勝だぜ！！
+285:Asuka, were you watching?\nHeh heh, I'm the champion!
 
-286:今はこの結果でもいいさ・・・\nでも、次は絶対優勝してやるんだ！
+286:I guess it wasn't too bad..\nBut next time, I'll win!
 
-287:ちっきしょ〜、\nチャンスはあったハズだ！\nそれなのに・・・！
+287:Damn it!\nI've had plenty of chances!
 
-288:自分で戦って・・・\n勝った証がチェッカーなんだ・・・！
+288:I race by my skill alone, and this\ncheckered flag is proof of it!
 
-289:アスラーダ、いくぞ！\n何としてもこのレースは・・・！
+289:Asurada, we will win this race no\nmatter what!\nLet's go!!
 
-290:頼んだよ・・・\nアスラーダ！
+290:I'm counting on you, Asurada!!
 
-291:簡単に勝たせる程\n甘くはありませんよ、\n僕とアスラーダは！
+291:Asurada and I aren't just going to\nlet you win!
 
-292:僕は・・・\n僕のレースをするってことです\n戦う相手がどうであれ！
+292:It doesn't matter who I'm racing,\nI won't lose!
 
-293:ハァ〜、\nいいレースだったよ！\nありがとう、アスラーダ！
+293:Thank you, Asurada, for that great race!
 
-294:ちっきしょう、\nチャンスはあったハズだ！\nそれなのに・・・！
+294:Damn it!\nI've had plenty of chances!
 
-295:負けてもいいなんて思ってたら、\nレースに出る意味なんてない！
+295:I don't arrive on the grid\nintending to lose!v
 
-296:オゥラ〜イ！\nミーにド〜ンと、\nまかせなさ〜い！！
+296:Alright!\nLeave it all to me,\nI’ve got this covered!!
 
-297:ミーだってマジになれば\nチャンピオンにだってなれるんだ、\n本気ってヤツを見せてやろうじゃないの！！
+297:Even I can become a champion when I'm\nserious, let’s show them what it means to\nbe truly committed!!
 
-298:さっさと片付けて、\nカワイコちゃんとゆっくり\nしたいとこだネェ〜！
+298:Let’s finish this quickly,\nso I can kick back and relax\nwith the ladies!
 
-299:あれ〜？\nどっかで見た顔だと思ったらぁ！\nハァ〜イ、元気ですかぁ〜？
+299:Huh?\nI've seen that face before!\nHi there, how's it going?
 
-300:カモ〜ン、カムヒア〜！\n・・・・・・\nあらぁ？シャイだね〜
+300:Come on, come over here!\n......\nOh? Feeling shy, are we?
 
-301:お〜っし、優勝だ！\n今夜は盛大にパーティでも\nしようじゃないの！！
+301:Alright, victory is ours!\nLet’s have a big celebration tonight!!
 
-302:あらぁ〜！？\n・・・ったく、\nまいったねコリャ
+302:Oh no!?\n...Well,\nthat’s quite the mess!
 
-303:はぁ〜・・・まいるよなぁ〜\nまたハイネルのお小言\n聞かなきゃなんないなんて・・・
+303:Ugh...this is a real hassle,\nI’ve got to deal with Heinel’s\nscolding again...
 
-304:念願のトップチームに入れたんだ、\n絶対モノにしてみせるよ！！
+304:I’ve made it onto my dream team,\nI’ll definitely prove my worth!!
 
-305:このマシンなら絶対勝てる・・・！\nもう「リタイアの女王」なんて\n言わせやしないよ！！
+305:With this machine, I can definitely win..!\nNo one’s calling me the\n“Queen of Retirements” anymore!!
 
-306:ここまで頑張ってやってきたんだ・・・\n必ず勝ってやる！
+306:I’ve worked so hard to get here...\nI’m going to win for sure!
 
-307:あんたが相手かい？\nフフッ、今までのあたしだと思ってたら\nヤケドするよ！！
+307:So you're my opponent?\nHeh, if you think I’m the same as before,\nyou’re in for a shock!!
 
-308:あらあら、\nどんなヤツが出てくると思ったら・・・
+308:Oh my,\nI wonder what kind of competitor\nI'm up against...
 
-309:グスッ・・・やったわ！\nな、泣いてなんかいないんだから！
+309:Sniff...I did it!\nI-I’m not crying or anything!
 
-310:ああ〜、\n惜しいね・・・\nもう一息だったのに！
+310:Oh, so close...\nI was almost there!
 
-311:最新のマシンで負けるなんて・・・！\nでもくじけない、\n次こそは勝ってやる！！
+311:Losing with the latest machine...!\nBut I won’t be discouraged,\nI’ll win next time for sure!!
 
-312:いつまでも風見先輩に\n憧れているだけじゃダメなんだ・・・\n僕だって！
+312:I can't keep looking up to\nMr. Kazami forever..\nI need to step up, too!
 
-313:僕だって\n元ワールドチャンピオンなんだ\n今回だって、勝てないレースじゃない！
+313:I’m a former World Champion, too.\nThis race isn’t one I can’t win!
 
-314:マシンも体調もバッチリだ\nあとは・・・\nこのレースに勝つだけさ！
+314:The condition of the machine and\nmyself are perfect.\nAll that’s left is to win this race!
 
-315:たまにはマジメに走ってみようかなぁ・・・\nフッフッフッ、\n絶対勝っちゃうんだろうけどね！
+315:Maybe I’ll drive seriously this time...\nHeh heh heh..\nI’m sure I’ll win even if I don't!
 
-316:僕に勝とうたって、そうはいかないよ！\nクックックッ・・・
+316:You think you can beat me?\nNot a chance!\nHeh heh heh...
 
-317:父さん、見ててくれた？\n僕・・・、優勝したよ！
+317:Dad, did you see?\nI...won the championship!
 
-318:うう・・・\nく、くやしい！\n風見先輩のような走りができれば・・・
+318:Ugh...\nI’m so frustrated!\nIf only I could drive like Mr. Kazami...
 
-319:僕が負ける・・・？\nなぜ、なぜなんだ！！
+319:I lost...?\nHow could have this have happened!!
 
-320:せっかくもらったチャンスなんだ、\n精一杯がんばって結果を出してやるぞ！\nいくぞネメシス、サポートをよろしくな！！
+320:This is an opportunity I've been given.\nI'll make sure to give it my all!\nNemesis, lend me your strength!
 
-321:え？僕がレースに出られるんですか！？\nや、やります！\nぜひやらせて下さい！！
+321:What? I get to race?!\nI'll do it!\nPlease believe it me!!
 
-322:こんな晴れ舞台に立てるなんて\n信じられないや・・・！\nよ〜し！頑張ろうな、ネメシス！！
+322:I can't believe I'm standing here,\nit's unbelievable!\nAlright, let's do our best, Nemesis!!
 
-323:ど、どうも・・・\n司馬と申します！\n今日は、よろしくお願いします！
+323:Um..hello..\nI'm Shiba!\nI look forward to racing with you today!
 
-324:あ、あの・・・\n皆さんとレースができて\n光栄です！！
+324:Um..\nbeing able to race with all of you..\nis an honor!!
 
-325:優勝だ・・・信じられない！\nありがとうネメシス、\n君のおかげだよ！！
+325:I won..\nI can't believe it!\nThank you Nemesis,\nI couldn't have done it without you!!
 
-326:この順位でも良しとしなきゃな・・・\nとはいえ、まだまだ攻めることができた\nハズだ、頑張んなきゃ！
+326:I should be happy with the results,\nbut I know I could have pushed harder!\nI have to do better!
 
-327:ネメシスの性能を\nうまく引き出すことができれば・・・！\nもっと走り込まないとダメだな！
+327:If I can take full advantage over\nNemesis' performance,\nI can bring out the best in both of us!
 
-328:へ？あたしが走るんですか？\nそれって、ウルトラスーパー超スッゴイこと\nじゃないですかぁ〜！！
+328:Huh? I'm going to be in the race?\nIsn't like that like,\nultra-super-amazingly-awesome!?
 
-329:これって、キャンギャルになるのと同じくらい\n超ビッグなチャンスってことでしょ？\nフフン・・・芸能界入りも近いかな！？
+329:This is as big an opportunity as becoming\na campaign girl, right? Hehe, maybe my\nentry into showbiz is a close tool?
 
-330:よぅし、やるぞぉ〜・・・！\n頑張ろうね、ネメシス！！
+330:Alright, let's do this!\nLet's give t our best, Nemesis!!
 
-331:あ、あの・・・司馬くんの幼馴染の\n結城レナといいます\nどうぞ、よろしくお願いします！
+331:Um, I'm Rena Yuki,\nMs. Shiba's childhood friend.\nPlease don't be too rough!
 
-332:いるいる、みんな強そうねぇ！\nでも、ネメシスを駆るこのレナちゃんに\nかなうヤツなんかいるのかしらね、フフフ！
+332:Oh, everyone looks so tough!\nBut is there anyone who can beat\nMiss Rena driving Nemesis? Hehehe!
 
-333:やっぱ日々の努力は報われるように\nできてるものなのねぇ〜！\nうんうん！
+333:Daily practice really does pay off!\nYep, yep!
 
-334:え〜っ、何でぇ〜！？\nやだ、１位がいい〜！！\n・・・んもうっ、つまんない
+334:What?! How?!\nNo, I wanted to be in first!!\n..Hmph, this is boring.
 
-335:あ〜・・・ハハハ\nほら、あたし本業はキャンギャルだしィ〜\n・・・何よ、文句ある！？
+335:Ah..hahaha..\nYou know, my main job is a campaign girl..\nYou got a problem with that?
 
 336:dummy
 
@@ -722,7 +722,7 @@
 
 361:I'm counting on you,\nAsurada!!
 
-362:I believe in the machine my dad made..\nLet's go, Asurada!
+362:I believe in the machine Dad built..\nLet's go, Asurada!
 
 363:It doesn't matter who I'm racing,\nI won't lose!
 
